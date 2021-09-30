@@ -14,4 +14,4 @@ cta_alt:
   label: View Documentation
 ---
 
-Environmental Portfolio documentation for the World Development Indicators
+Documentation for the World Development Indicators
