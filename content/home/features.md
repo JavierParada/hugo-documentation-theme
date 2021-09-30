@@ -7,14 +7,18 @@ subtitle: Document _anything_ ✨
 feature:
   - icon: book-open
     icon_pack: fas
-    name: Project Documentation
+    name: Climate Change
     description: For users
   - icon: question
     icon_pack: fas
-    name: Knowledge Base
+    name: Energy
     description: For teams
   - icon: list-alt
     icon_pack: fas
-    name: Personal Notebook
+    name: Water
     description: For yourself
+  - icon: book-open
+    icon_pack: fas
+    name: Deforestation
+    description: For users
 ---
