@@ -14,6 +14,4 @@ cta_alt:
   label: View Documentation
 ---
 
-Hola amigos
-
-Bienvenidos. 
+Environmental Portfolio documentation for the World Development Indicators
