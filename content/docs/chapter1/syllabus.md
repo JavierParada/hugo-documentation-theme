@@ -20,6 +20,4 @@ Different greenhouse gases last in the atmosphere for different lengths of time,
 
 About 60% of GHG emissions come from just 10 countries, while the 100 least-emitting contribute less than 3%. In 2018, China released 9.66 gigatons or billion metric tons of CO2. But if you include its emissions of methane, nitrous oxide and fluorinated gases, the country's total emissions add up to 11.71 gigatons of CO2e. In other words, those extra gases added the equivalent of 2.05 extra gigatons of CO2. That is approximately 24% or one fourth of the world’s total greenhouse gas emissions. The primary source of CO2 emissions in China is fossil fuels, notably coal burning. About 58% of the total energy derived in China came from coal alone in 2019, and since coal is rich in carbon, burning it in China's power and industrial plants and boilers releases large amounts of CO2 into the atmosphere.
 
-    <div class="flourish-embed" data-src="story/998814">
-      <script src="https://public.flourish.studio/resources/embed.js"></script>
-    </div>
+<div class="flourish-embed" data-src="story/998814"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
