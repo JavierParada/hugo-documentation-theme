@@ -8,13 +8,13 @@ feature:
   - icon: cloud-sun-rain
     icon_pack: fas
     name: Climate Change
-    description: For users
+    description: Indicators on greenhouse gas emissions and climate change
   - icon: lightbulb
     icon_pack: fas
     name: Energy
-    description: For teams
-  - icon: droplet
+    description: Indicators on energy access and efficiency
+  - icon: water
     icon_pack: fas
     name: Water
-    description: For yourself
+    description: Indicators on water consumption and access
 ---
