@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Environmental Portfolio
+title: Environmental Handbook
 hero_media: book.svg
 design:
   background:
