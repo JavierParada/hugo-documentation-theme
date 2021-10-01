@@ -1,0 +1,216 @@
+,Country Name,Region,Image URL,alpha_2,alpha_3,Country,Country_short
+0,Afghanistan,Asia,https://public.flourish.studio/country-flags/svg/af.svg,af,AFG,Afghanistan,Afghanistan
+1,Albania,Europe,https://public.flourish.studio/country-flags/svg/al.svg,al,ALB,Albania,Albania
+2,Algeria,Africa,https://public.flourish.studio/country-flags/svg/dz.svg,dz,DZA,Algeria,Algeria
+3,American Samoa,Oceania,https://public.flourish.studio/country-flags/svg/as.svg,as,ASM,American Samoa,American Samoa
+4,Andorra,Europe,https://public.flourish.studio/country-flags/svg/ad.svg,ad,AND,Andorra,Andorra
+5,Angola,Africa,https://public.flourish.studio/country-flags/svg/ao.svg,ao,AGO,Angola,Angola
+6,Antigua and Barbuda,Americas,https://public.flourish.studio/country-flags/svg/ag.svg,ag,ATG,Antigua and Barbuda,Antigua and B.
+7,Argentina,Americas,https://public.flourish.studio/country-flags/svg/ar.svg,ar,ARG,Argentina,Argentina
+8,Armenia,Asia,https://public.flourish.studio/country-flags/svg/am.svg,am,ARM,Armenia,Armenia
+9,Aruba,Americas,https://public.flourish.studio/country-flags/svg/aw.svg,aw,ABW,Aruba,Aruba
+10,Australia,Oceania,https://public.flourish.studio/country-flags/svg/au.svg,au,AUS,Australia,Australia
+11,Austria,Europe,https://public.flourish.studio/country-flags/svg/at.svg,at,AUT,Austria,Austria
+12,Azerbaijan,Asia,https://public.flourish.studio/country-flags/svg/az.svg,az,AZE,Azerbaijan,Azerbaijan
+13,"Bahamas, The",Americas,https://public.flourish.studio/country-flags/svg/bs.svg,bs,BHS,Bahamas,Bahamas
+14,Bahrain,Asia,https://public.flourish.studio/country-flags/svg/bh.svg,bh,BHR,Bahrain,Bahrain
+15,Bangladesh,Asia,https://public.flourish.studio/country-flags/svg/bd.svg,bd,BGD,Bangladesh,Bangladesh
+16,Barbados,Americas,https://public.flourish.studio/country-flags/svg/bb.svg,bb,BRB,Barbados,Barbados
+17,Belarus,Europe,https://public.flourish.studio/country-flags/svg/by.svg,by,BLR,Belarus,Belarus
+18,Belgium,Europe,https://public.flourish.studio/country-flags/svg/be.svg,be,BEL,Belgium,Belgium
+19,Belize,Americas,https://public.flourish.studio/country-flags/svg/bz.svg,bz,BLZ,Belize,Belize
+20,Benin,Africa,https://public.flourish.studio/country-flags/svg/bj.svg,bj,BEN,Benin,Benin
+21,Bermuda,Americas,https://public.flourish.studio/country-flags/svg/bm.svg,bm,BMU,Bermuda,Bermuda
+22,Bhutan,Asia,https://public.flourish.studio/country-flags/svg/bt.svg,bt,BTN,Bhutan,Bhutan
+23,Bolivia,Americas,https://public.flourish.studio/country-flags/svg/bo.svg,bo,BOL,"Bolivia, Plurinational State of",Bolivia
+24,Bosnia and Herzegovina,Europe,https://public.flourish.studio/country-flags/svg/ba.svg,ba,BIH,Bosnia and Herzegovina,Bosnia and H.
+25,Botswana,Africa,https://public.flourish.studio/country-flags/svg/bw.svg,bw,BWA,Botswana,Botswana
+26,Brazil,Americas,https://public.flourish.studio/country-flags/svg/br.svg,br,BRA,Brazil,Brazil
+27,British Virgin Islands,Americas,https://public.flourish.studio/country-flags/svg/vg.svg,vg,VGB,"Virgin Islands, British",Brit. Virgin Is
+28,Brunei Darussalam,Asia,https://public.flourish.studio/country-flags/svg/bn.svg,bn,BRN,Brunei Darussalam,Brunei
+29,Bulgaria,Europe,https://public.flourish.studio/country-flags/svg/bg.svg,bg,BGR,Bulgaria,Bulgaria
+30,Burkina Faso,Africa,https://public.flourish.studio/country-flags/svg/bf.svg,bf,BFA,Burkina Faso,Burkina Faso
+31,Burundi,Africa,https://public.flourish.studio/country-flags/svg/bi.svg,bi,BDI,Burundi,Burundi
+32,Cabo Verde,Africa,https://public.flourish.studio/country-flags/svg/cv.svg,cv,CPV,Cabo Verde,Cabo Verde
+33,Cambodia,Asia,https://public.flourish.studio/country-flags/svg/kh.svg,kh,KHM,Cambodia,Cambodia
+34,Cameroon,Africa,https://public.flourish.studio/country-flags/svg/cm.svg,cm,CMR,Cameroon,Cameroon
+35,Canada,Americas,https://public.flourish.studio/country-flags/svg/ca.svg,ca,CAN,Canada,Canada
+36,Cayman Islands,Americas,https://public.flourish.studio/country-flags/svg/ky.svg,ky,CYM,Cayman Islands,Cayman Islands
+37,Central African Republic,Africa,https://public.flourish.studio/country-flags/svg/cf.svg,cf,CAF,Central African Republic,CAR
+38,Chad,Africa,https://public.flourish.studio/country-flags/svg/td.svg,td,TCD,Chad,Chad
+39,Chile,Americas,https://public.flourish.studio/country-flags/svg/cl.svg,cl,CHL,Chile,Chile
+40,China,Asia,https://public.flourish.studio/country-flags/svg/cn.svg,cn,CHN,China,China
+41,Colombia,Americas,https://public.flourish.studio/country-flags/svg/co.svg,co,COL,Colombia,Colombia
+42,Comoros,Africa,https://public.flourish.studio/country-flags/svg/km.svg,km,COM,Comoros,Comoros
+43,"Congo, Dem. Rep.",Africa,https://public.flourish.studio/country-flags/svg/cd.svg,cd,COD,"Congo, The Democratic Republic of the",Congo
+44,"Congo, Rep.",Africa,https://public.flourish.studio/country-flags/svg/cg.svg,cg,COG,Congo,"Congo, Rep."
+45,Costa Rica,Americas,https://public.flourish.studio/country-flags/svg/cr.svg,cr,CRI,Costa Rica,Costa Rica
+46,Cote d'Ivoire,Africa,https://public.flourish.studio/country-flags/svg/ci.svg,ci,CIV,Côte d'Ivoire,Cote d'Ivoire
+47,Croatia,Europe,https://public.flourish.studio/country-flags/svg/hr.svg,hr,HRV,Croatia,Croatia
+48,Cuba,Americas,https://public.flourish.studio/country-flags/svg/cu.svg,cu,CUB,Cuba,Cuba
+49,Curacao,Americas,https://public.flourish.studio/country-flags/svg/cw.svg,cw,CUW,Curaçao,Curacao
+50,Cyprus,Asia,https://public.flourish.studio/country-flags/svg/cy.svg,cy,CYP,Cyprus,Cyprus
+51,Czech Republic,Europe,https://public.flourish.studio/country-flags/svg/cz.svg,cz,CZE,Czechia,Czech Republic
+52,Denmark,Europe,https://public.flourish.studio/country-flags/svg/dk.svg,dk,DNK,Denmark,Denmark
+53,Djibouti,Africa,https://public.flourish.studio/country-flags/svg/dj.svg,dj,DJI,Djibouti,Djibouti
+54,Dominica,Americas,https://public.flourish.studio/country-flags/svg/dm.svg,dm,DMA,Dominica,Dominica
+55,Dominican Republic,Americas,https://public.flourish.studio/country-flags/svg/do.svg,do,DOM,Dominican Republic,Dominican Rep.
+56,Ecuador,Americas,https://public.flourish.studio/country-flags/svg/ec.svg,ec,ECU,Ecuador,Ecuador
+57,"Egypt, Arab Rep.",Africa,https://public.flourish.studio/country-flags/svg/eg.svg,eg,EGY,Egypt,Egypt
+58,El Salvador,Americas,https://public.flourish.studio/country-flags/svg/sv.svg,sv,SLV,El Salvador,El Salvador
+59,Equatorial Guinea,Africa,https://public.flourish.studio/country-flags/svg/gq.svg,gq,GNQ,Equatorial Guinea,Eq. Guinea
+60,Eritrea,Africa,https://public.flourish.studio/country-flags/svg/er.svg,er,ERI,Eritrea,Eritrea
+61,Estonia,Europe,https://public.flourish.studio/country-flags/svg/ee.svg,ee,EST,Estonia,Estonia
+62,Eswatini,Africa,https://public.flourish.studio/country-flags/svg/sz.svg,sz,SWZ,Eswatini,Eswatini
+63,Ethiopia,Africa,https://public.flourish.studio/country-flags/svg/et.svg,et,ETH,Ethiopia,Ethiopia
+64,Faroe Islands,Europe,https://public.flourish.studio/country-flags/svg/fo.svg,fo,FRO,Faroe Islands,Faroe Islands
+65,Fiji,Oceania,https://public.flourish.studio/country-flags/svg/fj.svg,fj,FJI,Fiji,Fiji
+66,Finland,Europe,https://public.flourish.studio/country-flags/svg/fi.svg,fi,FIN,Finland,Finland
+67,France,Europe,https://public.flourish.studio/country-flags/svg/fr.svg,fr,FRA,France,France
+68,French Polynesia,Oceania,https://public.flourish.studio/country-flags/svg/pf.svg,pf,PYF,French Polynesia,Fr. Polynesia
+69,Gabon,Africa,https://public.flourish.studio/country-flags/svg/ga.svg,ga,GAB,Gabon,Gabon
+70,"Gambia, The",Africa,https://public.flourish.studio/country-flags/svg/gm.svg,gm,GMB,Gambia,Gambia
+71,Georgia,Asia,https://public.flourish.studio/country-flags/svg/ge.svg,ge,GEO,Georgia,Georgia
+72,Germany,Europe,https://public.flourish.studio/country-flags/svg/de.svg,de,DEU,Germany,Germany
+73,Ghana,Africa,https://public.flourish.studio/country-flags/svg/gh.svg,gh,GHA,Ghana,Ghana
+74,Gibraltar,Europe,https://public.flourish.studio/country-flags/svg/gi.svg,gi,GIB,Gibraltar,Gibraltar
+75,Greece,Europe,https://public.flourish.studio/country-flags/svg/gr.svg,gr,GRC,Greece,Greece
+76,Greenland,Americas,https://public.flourish.studio/country-flags/svg/gl.svg,gl,GRL,Greenland,Greenland
+77,Grenada,Americas,https://public.flourish.studio/country-flags/svg/gd.svg,gd,GRD,Grenada,Grenada
+78,Guam,Oceania,https://public.flourish.studio/country-flags/svg/gu.svg,gu,GUM,Guam,Guam
+79,Guatemala,Americas,https://public.flourish.studio/country-flags/svg/gt.svg,gt,GTM,Guatemala,Guatemala
+80,Guinea,Africa,https://public.flourish.studio/country-flags/svg/gn.svg,gn,GIN,Guinea,Guinea
+81,Guinea-Bissau,Africa,https://public.flourish.studio/country-flags/svg/gw.svg,gw,GNB,Guinea-Bissau,Guinea-Bissau
+82,Guyana,Americas,https://public.flourish.studio/country-flags/svg/gy.svg,gy,GUY,Guyana,Guyana
+83,Haiti,Americas,https://public.flourish.studio/country-flags/svg/ht.svg,ht,HTI,Haiti,Haiti
+84,Honduras,Americas,https://public.flourish.studio/country-flags/svg/hn.svg,hn,HND,Honduras,Honduras
+85,"Hong Kong SAR, China",Asia,https://public.flourish.studio/country-flags/svg/hk.svg,hk,HKG,Hong Kong,Hong Kong
+86,Hungary,Europe,https://public.flourish.studio/country-flags/svg/hu.svg,hu,HUN,Hungary,Hungary
+87,Iceland,Europe,https://public.flourish.studio/country-flags/svg/is.svg,is,ISL,Iceland,Iceland
+88,India,Asia,https://public.flourish.studio/country-flags/svg/in.svg,in,IND,India,India
+89,Indonesia,Asia,https://public.flourish.studio/country-flags/svg/id.svg,id,IDN,Indonesia,Indonesia
+90,"Iran, Islamic Rep.",Asia,https://public.flourish.studio/country-flags/svg/ir.svg,ir,IRN,"Iran, Islamic Republic of",Iran
+91,Iraq,Asia,https://public.flourish.studio/country-flags/svg/iq.svg,iq,IRQ,Iraq,Iraq
+92,Ireland,Europe,https://public.flourish.studio/country-flags/svg/ie.svg,ie,IRL,Ireland,Ireland
+93,Isle of Man,Europe,https://public.flourish.studio/country-flags/svg/im.svg,im,IMN,Isle of Man,Isle of Man
+94,Israel,Asia,https://public.flourish.studio/country-flags/svg/il.svg,il,ISR,Israel,Israel
+95,Italy,Europe,https://public.flourish.studio/country-flags/svg/it.svg,it,ITA,Italy,Italy
+96,Jamaica,Americas,https://public.flourish.studio/country-flags/svg/jm.svg,jm,JAM,Jamaica,Jamaica
+97,Japan,Asia,https://public.flourish.studio/country-flags/svg/jp.svg,jp,JPN,Japan,Japan
+98,Jordan,Asia,https://public.flourish.studio/country-flags/svg/jo.svg,jo,JOR,Jordan,Jordan
+99,Kazakhstan,Asia,https://public.flourish.studio/country-flags/svg/kz.svg,kz,KAZ,Kazakhstan,Kazakhstan
+100,Kenya,Africa,https://public.flourish.studio/country-flags/svg/ke.svg,ke,KEN,Kenya,Kenya
+101,Kiribati,Oceania,https://public.flourish.studio/country-flags/svg/ki.svg,ki,KIR,Kiribati,Kiribati
+102,"Korea, Dem. People’s Rep.",Asia,https://public.flourish.studio/country-flags/svg/kp.svg,kp,PRK,"Korea, Democratic People's Republic of",North Korea
+103,"Korea, Rep.",Asia,https://public.flourish.studio/country-flags/svg/kr.svg,kr,KOR,"Korea, Republic of",South Korea
+104,Kuwait,Asia,https://public.flourish.studio/country-flags/svg/kw.svg,kw,KWT,Kuwait,Kuwait
+105,Kyrgyz Republic,Asia,https://public.flourish.studio/country-flags/svg/kg.svg,kg,KGZ,Kyrgyzstan,Kyrgyz Republic
+106,Lao PDR,Asia,https://public.flourish.studio/country-flags/svg/la.svg,la,LAO,Lao People's Democratic Republic,Lao PDR
+107,Latvia,Europe,https://public.flourish.studio/country-flags/svg/lv.svg,lv,LVA,Latvia,Latvia
+108,Lebanon,Asia,https://public.flourish.studio/country-flags/svg/lb.svg,lb,LBN,Lebanon,Lebanon
+109,Lesotho,Africa,https://public.flourish.studio/country-flags/svg/ls.svg,ls,LSO,Lesotho,Lesotho
+110,Liberia,Africa,https://public.flourish.studio/country-flags/svg/lr.svg,lr,LBR,Liberia,Liberia
+111,Libya,Africa,https://public.flourish.studio/country-flags/svg/ly.svg,ly,LBY,Libya,Libya
+112,Liechtenstein,Europe,https://public.flourish.studio/country-flags/svg/li.svg,li,LIE,Liechtenstein,Liechtenstein
+113,Lithuania,Europe,https://public.flourish.studio/country-flags/svg/lt.svg,lt,LTU,Lithuania,Lithuania
+114,Luxembourg,Europe,https://public.flourish.studio/country-flags/svg/lu.svg,lu,LUX,Luxembourg,Luxembourg
+115,"Macao SAR, China",Asia,https://public.flourish.studio/country-flags/svg/mo.svg,mo,MAC,Macao,Macao
+116,"Macedonia, FYR",Europe,https://public.flourish.studio/country-flags/svg/mk.svg,mk,MKD,North Macedonia,"Macedonia, FYR"
+117,Madagascar,Africa,https://public.flourish.studio/country-flags/svg/mg.svg,mg,MDG,Madagascar,Madagascar
+118,Malawi,Africa,https://public.flourish.studio/country-flags/svg/mw.svg,mw,MWI,Malawi,Malawi
+119,Malaysia,Asia,https://public.flourish.studio/country-flags/svg/my.svg,my,MYS,Malaysia,Malaysia
+120,Maldives,Asia,https://public.flourish.studio/country-flags/svg/mv.svg,mv,MDV,Maldives,Maldives
+121,Mali,Africa,https://public.flourish.studio/country-flags/svg/ml.svg,ml,MLI,Mali,Mali
+122,Malta,Europe,https://public.flourish.studio/country-flags/svg/mt.svg,mt,MLT,Malta,Malta
+123,Marshall Islands,Oceania,https://public.flourish.studio/country-flags/svg/mh.svg,mh,MHL,Marshall Islands,Marshall Islands
+124,Mauritania,Africa,https://public.flourish.studio/country-flags/svg/mr.svg,mr,MRT,Mauritania,Mauritania
+125,Mauritius,Africa,https://public.flourish.studio/country-flags/svg/mu.svg,mu,MUS,Mauritius,Mauritius
+126,Mexico,Americas,https://public.flourish.studio/country-flags/svg/mx.svg,mx,MEX,Mexico,Mexico
+127,"Micronesia, Fed. Sts.",Oceania,https://public.flourish.studio/country-flags/svg/fm.svg,fm,FSM,"Micronesia, Federated States of",Micronesia
+128,Moldova,Europe,https://public.flourish.studio/country-flags/svg/md.svg,md,MDA,"Moldova, Republic of",Moldova
+129,Monaco,Europe,https://public.flourish.studio/country-flags/svg/mc.svg,mc,MCO,Monaco,Monaco
+130,Mongolia,Asia,https://public.flourish.studio/country-flags/svg/mn.svg,mn,MNG,Mongolia,Mongolia
+131,Montenegro,Europe,https://public.flourish.studio/country-flags/svg/me.svg,me,MNE,Montenegro,Montenegro
+132,Morocco,Africa,https://public.flourish.studio/country-flags/svg/ma.svg,ma,MAR,Morocco,Morocco
+133,Mozambique,Africa,https://public.flourish.studio/country-flags/svg/mz.svg,mz,MOZ,Mozambique,Mozambique
+134,Myanmar,Asia,https://public.flourish.studio/country-flags/svg/mm.svg,mm,MMR,Myanmar,Myanmar
+135,Namibia,Africa,https://public.flourish.studio/country-flags/svg/na.svg,na,NAM,Namibia,Namibia
+136,Nauru,Oceania,https://public.flourish.studio/country-flags/svg/nr.svg,nr,NRU,Nauru,Nauru
+137,Nepal,Asia,https://public.flourish.studio/country-flags/svg/np.svg,np,NPL,Nepal,Nepal
+138,Netherlands,Europe,https://public.flourish.studio/country-flags/svg/nl.svg,nl,NLD,Netherlands,Netherlands
+139,New Caledonia,Oceania,https://public.flourish.studio/country-flags/svg/nc.svg,nc,NCL,New Caledonia,New Caledonia
+140,New Zealand,Oceania,https://public.flourish.studio/country-flags/svg/nz.svg,nz,NZL,New Zealand,New Zealand
+141,Nicaragua,Americas,https://public.flourish.studio/country-flags/svg/ni.svg,ni,NIC,Nicaragua,Nicaragua
+142,Niger,Africa,https://public.flourish.studio/country-flags/svg/ne.svg,ne,NER,Niger,Niger
+143,Nigeria,Africa,https://public.flourish.studio/country-flags/svg/ng.svg,ng,NGA,Nigeria,Nigeria
+144,Northern Mariana Islands,Oceania,https://public.flourish.studio/country-flags/svg/mp.svg,mp,MNP,Northern Mariana Islands,N. Mariana Is.
+145,Norway,Europe,https://public.flourish.studio/country-flags/svg/no.svg,no,NOR,Norway,Norway
+146,Oman,Asia,https://public.flourish.studio/country-flags/svg/om.svg,om,OMN,Oman,Oman
+147,Pakistan,Asia,https://public.flourish.studio/country-flags/svg/pk.svg,pk,PAK,Pakistan,Pakistan
+148,Palau,Oceania,https://public.flourish.studio/country-flags/svg/pw.svg,pw,PLW,Palau,Palau
+149,Panama,Americas,https://public.flourish.studio/country-flags/svg/pa.svg,pa,PAN,Panama,Panama
+150,Papua New Guinea,Oceania,https://public.flourish.studio/country-flags/svg/pg.svg,pg,PNG,Papua New Guinea,Papua New Guinea
+151,Paraguay,Americas,https://public.flourish.studio/country-flags/svg/py.svg,py,PRY,Paraguay,Paraguay
+152,Peru,Americas,https://public.flourish.studio/country-flags/svg/pe.svg,pe,PER,Peru,Peru
+153,Philippines,Asia,https://public.flourish.studio/country-flags/svg/ph.svg,ph,PHL,Philippines,Philippines
+154,Poland,Europe,https://public.flourish.studio/country-flags/svg/pl.svg,pl,POL,Poland,Poland
+155,Portugal,Europe,https://public.flourish.studio/country-flags/svg/pt.svg,pt,PRT,Portugal,Portugal
+156,Puerto Rico,Americas,https://public.flourish.studio/country-flags/svg/pr.svg,pr,PRI,Puerto Rico,Puerto Rico
+157,Qatar,Asia,https://public.flourish.studio/country-flags/svg/qa.svg,qa,QAT,Qatar,Qatar
+158,Romania,Europe,https://public.flourish.studio/country-flags/svg/ro.svg,ro,ROU,Romania,Romania
+159,Russia,Europe,https://public.flourish.studio/country-flags/svg/ru.svg,ru,RUS,Russian Federation,Russia
+160,Rwanda,Africa,https://public.flourish.studio/country-flags/svg/rw.svg,rw,RWA,Rwanda,Rwanda
+161,Samoa,Oceania,https://public.flourish.studio/country-flags/svg/ws.svg,ws,WSM,Samoa,Samoa
+162,San Marino,Europe,https://public.flourish.studio/country-flags/svg/sm.svg,sm,SMR,San Marino,San Marino
+163,Sao Tome and Principe,Africa,https://public.flourish.studio/country-flags/svg/st.svg,st,STP,Sao Tome and Principe,Sao Tome & P.
+164,Saudi Arabia,Asia,https://public.flourish.studio/country-flags/svg/sa.svg,sa,SAU,Saudi Arabia,Saudi Arabia
+165,Senegal,Africa,https://public.flourish.studio/country-flags/svg/sn.svg,sn,SEN,Senegal,Senegal
+166,Serbia,Europe,https://public.flourish.studio/country-flags/svg/rs.svg,rs,SRB,Serbia,Serbia
+167,Seychelles,Africa,https://public.flourish.studio/country-flags/svg/sc.svg,sc,SYC,Seychelles,Seychelles
+168,Sierra Leone,Africa,https://public.flourish.studio/country-flags/svg/sl.svg,sl,SLE,Sierra Leone,Sierra Leone
+169,Singapore,Asia,https://public.flourish.studio/country-flags/svg/sg.svg,sg,SGP,Singapore,Singapore
+170,Sint Maarten (Dutch part),Americas,https://public.flourish.studio/country-flags/svg/sx.svg,sx,SXM,Sint Maarten (Dutch part),Sint M. (Dutch)
+171,Slovak Republic,Europe,https://public.flourish.studio/country-flags/svg/sk.svg,sk,SVK,Slovakia,Slovak Republic
+172,Slovenia,Europe,https://public.flourish.studio/country-flags/svg/si.svg,si,SVN,Slovenia,Slovenia
+173,Solomon Islands,Oceania,https://public.flourish.studio/country-flags/svg/sb.svg,sb,SLB,Solomon Islands,Solomon Is.
+174,Somalia,Africa,https://public.flourish.studio/country-flags/svg/so.svg,so,SOM,Somalia,Somalia
+175,South Africa,Africa,https://public.flourish.studio/country-flags/svg/za.svg,za,ZAF,South Africa,South Africa
+176,South Sudan,Africa,https://public.flourish.studio/country-flags/svg/ss.svg,ss,SSD,South Sudan,South Sudan
+177,Spain,Europe,https://public.flourish.studio/country-flags/svg/es.svg,es,ESP,Spain,Spain
+178,Sri Lanka,Asia,https://public.flourish.studio/country-flags/svg/lk.svg,lk,LKA,Sri Lanka,Sri Lanka
+179,St. Kitts and Nevis,Americas,https://public.flourish.studio/country-flags/svg/kn.svg,kn,KNA,Saint Kitts and Nevis,St. Kitts & N.
+180,St. Lucia,Americas,https://public.flourish.studio/country-flags/svg/lc.svg,lc,LCA,Saint Lucia,St. Lucia
+181,St. Martin (French part),Americas,https://public.flourish.studio/country-flags/svg/mf.svg,mf,MAF,Saint Martin (French part),St. Martin (Fr.)
+182,St. Vincent and the Grenadines,Americas,https://public.flourish.studio/country-flags/svg/vc.svg,vc,VCT,Saint Vincent and the Grenadines,St. Vincent &.
+183,Sudan,Africa,https://public.flourish.studio/country-flags/svg/sd.svg,sd,SDN,Sudan,Sudan
+184,Suriname,Americas,https://public.flourish.studio/country-flags/svg/sr.svg,sr,SUR,Suriname,Suriname
+185,Sweden,Europe,https://public.flourish.studio/country-flags/svg/se.svg,se,SWE,Sweden,Sweden
+186,Switzerland,Europe,https://public.flourish.studio/country-flags/svg/ch.svg,ch,CHE,Switzerland,Switzerland
+187,Syrian Arab Republic,Asia,https://public.flourish.studio/country-flags/svg/sy.svg,sy,SYR,Syrian Arab Republic,Syria
+188,Tajikistan,Asia,https://public.flourish.studio/country-flags/svg/tj.svg,tj,TJK,Tajikistan,Tajikistan
+189,Tanzania,Africa,https://public.flourish.studio/country-flags/svg/tz.svg,tz,TZA,"Tanzania, United Republic of",Tanzania
+190,Thailand,Asia,https://public.flourish.studio/country-flags/svg/th.svg,th,THA,Thailand,Thailand
+191,Timor-Leste,Asia,https://public.flourish.studio/country-flags/svg/tl.svg,tl,TLS,Timor-Leste,Timor-Leste
+192,Togo,Africa,https://public.flourish.studio/country-flags/svg/tg.svg,tg,TGO,Togo,Togo
+193,Tonga,Oceania,https://public.flourish.studio/country-flags/svg/to.svg,to,TON,Tonga,Tonga
+194,Trinidad and Tobago,Americas,https://public.flourish.studio/country-flags/svg/tt.svg,tt,TTO,Trinidad and Tobago,Trinidad and T.
+195,Tunisia,Africa,https://public.flourish.studio/country-flags/svg/tn.svg,tn,TUN,Tunisia,Tunisia
+196,Turkey,Asia,https://public.flourish.studio/country-flags/svg/tr.svg,tr,TUR,Turkey,Turkey
+197,Turkmenistan,Asia,https://public.flourish.studio/country-flags/svg/tm.svg,tm,TKM,Turkmenistan,Turkmenistan
+198,Turks and Caicos Islands,Americas,https://public.flourish.studio/country-flags/svg/tc.svg,tc,TCA,Turks and Caicos Islands,Turks & C. Is.
+199,Tuvalu,Oceania,https://public.flourish.studio/country-flags/svg/tv.svg,tv,TUV,Tuvalu,Tuvalu
+200,UAE,Asia,https://public.flourish.studio/country-flags/svg/ae.svg,ae,ARE,United Arab Emirates,UAE
+201,Uganda,Africa,https://public.flourish.studio/country-flags/svg/ug.svg,ug,UGA,Uganda,Uganda
+202,UK,Europe,https://public.flourish.studio/country-flags/svg/gb.svg,gb,GBR,United Kingdom,UK
+203,Ukraine,Europe,https://public.flourish.studio/country-flags/svg/ua.svg,ua,UKR,Ukraine,Ukraine
+204,Uruguay,Americas,https://public.flourish.studio/country-flags/svg/uy.svg,uy,URY,Uruguay,Uruguay
+205,USA,Americas,https://public.flourish.studio/country-flags/svg/us.svg,us,USA,United States,USA
+206,Uzbekistan,Asia,https://public.flourish.studio/country-flags/svg/uz.svg,uz,UZB,Uzbekistan,Uzbekistan
+207,Vanuatu,Oceania,https://public.flourish.studio/country-flags/svg/vu.svg,vu,VUT,Vanuatu,Vanuatu
+208,"Venezuela, RB",Americas,https://public.flourish.studio/country-flags/svg/ve.svg,ve,VEN,"Venezuela, Bolivarian Republic of","Venezuela, RB"
+209,Vietnam,Asia,https://public.flourish.studio/country-flags/svg/vn.svg,vn,VNM,Viet Nam,Vietnam
+210,Virgin Islands (U.S.),Americas,https://public.flourish.studio/country-flags/svg/vi.svg,vi,VIR,"Virgin Islands, U.S.",Vir. Islands
+211,West Bank and Gaza,Asia,https://public.flourish.studio/country-flags/svg/ps.svg,ps,PSE,"Palestine, State of",West Bank & G.
+212,"Yemen, Rep.",Asia,https://public.flourish.studio/country-flags/svg/ye.svg,ye,YEM,Yemen,Yemen
+213,Zambia,Africa,https://public.flourish.studio/country-flags/svg/zm.svg,zm,ZMB,Zambia,Zambia
+214,Zimbabwe,Africa,https://public.flourish.studio/country-flags/svg/zw.svg,zw,ZWE,Zimbabwe,Zimbabwe
