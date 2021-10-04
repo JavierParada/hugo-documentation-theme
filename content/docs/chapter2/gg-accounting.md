@@ -30,52 +30,6 @@ Different greenhouse gases last in the atmosphere for different lengths of time,
 |  Sulfur   hexafluoride (SF<sub>6</sub>) |             22,800             |
 | Nitrogen   trifluoride (NF<sub>3</sub>) |            17,200              |
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c3ow">Greenhouse   Gas</th>
-    <th class="tg-c3ow">Global Warming Potential (GWP)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-c3ow">Carbon   dioxide (CO&lt;sub&gt;2&lt;/sub&gt;)</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Methane   (CH&lt;sub&gt;4&lt;/sub&gt;)</td>
-    <td class="tg-c3ow">25</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Nitrous   oxide (N&lt;sub&gt;2&lt;/sub&gt;O)</td>
-    <td class="tg-c3ow">298</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Hydrofluorocarbons   (HFCs)</td>
-    <td class="tg-c3ow">124 – 14,800</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Perfluorocarbons   (PFCs)</td>
-    <td class="tg-c3ow">7,390 - 12,200</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Sulfur   hexafluoride (SF&lt;sub&gt;6&lt;/sub&gt;)</td>
-    <td class="tg-c3ow">22,800</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Nitrogen   trifluoride (NF&lt;sub&gt;3&lt;/sub&gt;)</td>
-    <td class="tg-c3ow">17,200   </td>
-  </tr>
-
 ## Emissions by country
 
 About 60&#37; of GHG emissions come from just 10 countries, while the 100 least-emitting contribute less than 3%. In 2018, China released 9.66 gigatons or billion metric tons of CO2. But if you include its emissions of methane, nitrous oxide and fluorinated gases, the country's total emissions add up to 11.71 gigatons of CO2e. In other words, those extra gases added the equivalent of 2.05 extra gigatons of CO2. That is approximately 24% or one fourth of the world’s total greenhouse gas emissions. The primary source of CO2 emissions in China is fossil fuels, notably coal burning. About 58% of the total energy derived in China came from coal alone in 2019, and since coal is rich in carbon, burning it in China's power and industrial plants and boilers releases large amounts of CO2 into the atmosphere.
