@@ -5,3 +5,7 @@
 resources/
 public/
 jsconfig.json
+
+others/flourish/bar chart race/.ipynb_checkpoints/
+
+echo .DS_Store >> .gitignore
