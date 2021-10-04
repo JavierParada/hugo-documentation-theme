@@ -2,7 +2,7 @@
 title: Greenhouse Gas Accounting
 linktitle: Greenhouse Gas Accounting
 type: book
-date: "2019-09-30T00:00:00+01:00"
+date: "2021-10-04T00:00:00+01:00"
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
@@ -22,19 +22,15 @@ Greenhouse gases are gases that trap heat in the Earth’s atmosphere, which mea
 
 Different greenhouse gases last in the atmosphere for different lengths of time, and they also absorb different amounts of heat. Two ways in which greenhouse gases differ from each other are their ability to absorb energy and how long they stay in the atmosphere. Carbon dioxide equivalent (CO2e) is a term for describing different greenhouse gases in a common unit. That way, a carbon footprint consisting of lots of different greenhouse gases can be expressed as a single number. The global warming potential (GWP) of a greenhouse gas indicates the amount of warming a gas causes over a given period (normally 100 years), relative to the emissions of 1 ton of CO<sub>2</sub>. Methane scores 25 (meaning that one ton of methane will cause the same amount of warming as 25 tons of CO<sub>2</sub>), nitrous oxide comes in at 298 and some of the super-potent F-gases score more than 10,000.  
 
-<div align="center">
-
-|             Greenhouse   Gas            | Global Warming Potential (GWP) |
-|:---------------------------------------:|:------------------------------:|
-|    Carbon   dioxide (CO<sub>2</sub>)    |                1               |
-|        Methane   (CH<sub>4</sub>)       |               25               |
-|     Nitrous   oxide (N<sub>2</sub>O)    |               298              |
-|       Hydrofluorocarbons   (HFCs)       |          124 – 14,800          |
-|        Perfluorocarbons   (PFCs)        |         7,390 - 12,200         |
-|  Sulfur   hexafluoride (SF<sub>6</sub>) |             22,800             |
-| Nitrogen   trifluoride (NF<sub>3</sub>) |            17,200              |
-
-</div>
+|    Greenhouse Gas    	| Abbreviation 	| Global Warming Potential (GWP) 	|
+|:--------------------:	|:------------:	|:------------------------------:	|
+|    Carbon dioxide    	|      CO<sub>2</sub>     	|                1               	|
+|        Methane       	|      CH<sub>4</sub>     	|               25               	|
+|     Nitrous oxide    	|     N<sub>2</sub>O     	|               298              	|
+|  Hydrofluorocarbons  	|     HFCs     	|          124 – 14,800          	|
+|   Perfluorocarbons   	|     PFCs     	|         7,390 - 12,200         	|
+|  Sulfur hexafluoride 	|     SF<sub>6</sub>     	|             22,800             	|
+| Nitrogen trifluoride 	|      NF<sub>3</sub>     	|             17,200             	|
 
 ## Emissions by country
 
