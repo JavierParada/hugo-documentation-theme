@@ -20,7 +20,9 @@ Greenhouse gases are gases that trap heat in the Earth’s atmosphere, which mea
 
 ## Global Warming Potential (GWP)
 
-Different greenhouse gases last in the atmosphere for different lengths of time, and they also absorb different amounts of heat. Two ways in which greenhouse gases differ from each other are their ability to absorb energy and how long they stay in the atmosphere. Carbon dioxide equivalent (CO2e) is a term for describing different greenhouse gases in a common unit. That way, a carbon footprint consisting of lots of different greenhouse gases can be expressed as a single number. The global warming potential (GWP) of a greenhouse gas indicates the amount of warming a gas causes over a given period (normally 100 years), relative to the emissions of 1 ton of CO<sub>2</sub>. Methane scores 25 (meaning that one ton of methane will cause the same amount of warming as 25 tons of CO<sub>2</sub>), nitrous oxide comes in at 298 and some of the super-potent F-gases score more than 10,000.  
+Different greenhouse gases last in the atmosphere for different lengths of time, and they also absorb different amounts of heat. Two ways in which greenhouse gases differ from each other are their ability to absorb energy and how long they stay in the atmosphere. Carbon dioxide equivalent (CO2e) is a term for describing different greenhouse gases in a common unit. That way, a carbon footprint consisting of lots of different greenhouse gases can be expressed as a single number. The global warming potential (GWP) of a greenhouse gas indicates the amount of warming a gas causes over a given period (normally 100 years), relative to the emissions of 1 ton of CO<sub>2</sub>. Methane scores 25 (meaning that one ton of methane will cause the same amount of warming as 25 tons of CO<sub>2</sub>), nitrous oxide comes in at 298 and some of the super-potent F-gases score more than 10,000.[^1]
+
+[^1]: Greenhouse Gases, CO2, CO2e, and Carbon: What Do All These Terms Mean? [link](https://ecometrica.com/assets/GHGs-CO2-CO2e-and-Carbon-What-Do-These-Mean-v2.1.pdf)
 
 |    Greenhouse Gas    	| Abbreviation 	| Global Warming Potential (GWP) 	|
 |:--------------------:	|:------------:	|:------------------------------:	|
@@ -31,10 +33,6 @@ Different greenhouse gases last in the atmosphere for different lengths of time,
 |   Perfluorocarbons   	|     PFCs     	|         7,390 - 12,200         	|
 |  Sulfur hexafluoride 	|     SF<sub>6</sub>     	|             22,800             	|
 | Nitrogen trifluoride 	|      NF<sub>3</sub>     	|             17,200             	|
-
-I have more [^1] to say.
-
-[^1]: Footnote example.
 
 ## Emissions by country
 
