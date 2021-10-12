@@ -36,12 +36,42 @@ Different greenhouse gases last in the atmosphere for different lengths of time,
 |  Sulfur hexafluoride 	|     SF<sub>6</sub>     	|             22,800             	|
 | Nitrogen trifluoride 	|      NF<sub>3</sub>     	|             17,200             	|
 
-## Emissions by country
+## Emissions by Country
 
 About 60&#37; of GHG emissions come from just 10 countries, while the 100 least-emitting contribute less than 3%. In 2018, China released 10.31 gigatons or billion metric tons of CO<sub>2</sub>. But if you include its emissions of methane, nitrous oxide and fluorinated gases, the country's total emissions add up to 12.36 gigatons of CO2e. In other words, those extra gases added the equivalent of 2.05 extra gigatons of CO<sub>2</sub>. That is approximately 24% or one fourth of the world’s total greenhouse gas emissions. The primary source of CO<sub>2</sub> emissions in China is fossil fuels, notably coal burning. About 58% of the total energy derived in China came from coal alone in 2019, and since coal is rich in carbon, burning it in China's power and industrial plants and boilers releases large amounts of CO<sub>2</sub> into the atmosphere.
 
 <div class="flourish-embed" data-src="story/998814"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Flows by sector
+## Flows by Sectors and Gases
+
+At current greenhouse gas emission rates, temperatures could increase by 2 °C (3.6 °F), which the United Nations' Intergovernmental Panel on Climate Change (IPCC) says is the upper limit to avoid "dangerous" levels, by 2050. The vast majority of anthropogenic carbon dioxide emissions come from combustion of fossil fuels, principally coal, petroleum (including oil) and natural gas, with additional contributions from deforestation and other changes in land use.
 
 <div class="flourish-embed flourish-sankey" data-src="visualisation/7509030"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Carbon dioxide
+
+Carbon dioxide (CO2) is the primary greenhouse gas emitted through human activities. Burning fossil fuels such as coal, petroleum, and natural gas is the leading cause of increased anthropogenic CO2. Deforestation is the second major cause. 
+
+In 2018, X gigatonnes of carbon were released from fossil fuels. 
+
+### Methane
+
+Methane is the second-most prevalent greenhouse gas after carbon dioxide but much more potent in the short term in its ability to heat the planet. It is the main component of natural gas and is also released into the atmosphere from landfills, livestock and thawing permafrost. One study reported that the livestock sector in general (primarily cattle, chickens, and pigs) produces 37% of all human-induced methane. Methane has a more powerful warming effect than carbon dioxide over the first 20 years after it reaches the atmosphere. Even though CO<sub>2</sub> has a longer-lasting effect, cutting methane emissions is the fastest opportunity we have to immediately slow the rate of global warming. 
+
+### Nitrous Oxide
+
+The third most important long-lived greenhouse gas is nitrous oxide. Nitrous oxide gets much less attention than carbon dioxide and methane, but it is 300 times more powerful at warming the planet than carbon dioxide. Nitrous oxide, more commonly known as "laughing gas", is a potent greenhouse gas that substantially contributes to global warming. Global emissions of N2O are increasing as a result of human activities that stimulate its production. At present, human agricultural practices account for over two-thirds of global N2O emissions. 
+
+The biggest culprit: the increase in agricultural lands and synthetic fertilizer use in agriculture, which has steadily increased in recent decades. And industrial farming—especially of annual crops like vegetables and grains—are especially to blame, as farmers tend to over-apply fertilizers to boost their yields. As a result, much attention has been directed at reducing the amount of excess nitrogen added to agricultural soils via fertilizer.
+
+Experts say the key to reducing agricultural emissions of nitrous oxide is using fertilizer more efficiently. This means figuring out the right amount to use and the right time to apply it. That’s more challenging than it sounds, because modern agriculture relies heavily on over-production, and the simplest way to guarantee high yields is to use more nutrients than necessary.
+
+### Fluorinated Gases
+
+Fluorinated gases are a family of man-made gases used in a range of industrial applications. They are powerful greenhouse gases, with a global warming effect up to 23,000 times greater than carbon dioxide, and their emissions are rising strongly. Hydrofluorocarbons (HFCs) are by far the most relevant F-gas group from a climate perspective, although they are relatively short-lived. The other two F-gas groups, perfluorocarbons (PFCs) and sulphur hexafluoride (SF6), can remain in the atmosphere for thousands of years.
+
+* Hydrofluorocarbons (HFCs) are used in various sectors and applications, such as refrigerants in refrigeration, air-conditioning and heat pump equipment; as blowing agents for foams; as solvents; and in fire extinguishers and aerosols.
+
+* Perfluorocarbons (PFCs) are typically used in the electronics sector (for example for plasma cleaning of silicon wafers) as well as in the cosmetic and pharmaceutical industry. In the past PFCs were also used in fire extinguishers and can still be found in older fire protection systems.
+
+* Sulphur hexafluoride (SF6) is used mainly as an insulating gas, in high voltage switchgear and in the production of magnesium and aluminium.
