@@ -104,19 +104,19 @@ This section describes the results of measuring the proportion of land area wher
 |West Indies      |[Turks and Caicos Islands](https://javierparada.github.io/EL5M/html/TCA.html)        |TCA |
 |West Indies      |[Trinidad and Tobago](https://javierparada.github.io/EL5M/html/TTO.html)             |TTO |
 |West Indies      |[Saint Vincent and the Grenadines](https://javierparada.github.io/EL5M/html/VCT.html)|VCT |
-|West Indies      |[Virgin Islands (British)](https://javierparada.github.io/EL5M/html/VGB.html)        |VGB |
+|West Indies      |[British Virgin Islands](https://javierparada.github.io/EL5M/html/VGB.html)          |VGB |
 |Central Asia     |[Kazakhstan](https://javierparada.github.io/EL5M/html/KAZ.html)                      |KAZ |
-|Central Asia     |[Kyrgyzstan](https://javierparada.github.io/EL5M/html/KGZ.html)                      |KGZ |
+|Central Asia     |[Kyrgyz Republic](https://javierparada.github.io/EL5M/html/KGZ.html)                 |KGZ |
 |Central Asia     |[Tajikistan](https://javierparada.github.io/EL5M/html/TJK.html)                      |TJK |
 |Central Asia     |[Turkmenistan](https://javierparada.github.io/EL5M/html/TKM.html)                    |TKM |
 |Central Asia     |[Uzbekistan](https://javierparada.github.io/EL5M/html/UZB.html)                      |UZB |
 |East Asia        |[China](https://javierparada.github.io/EL5M/html/CHN.html)                           |CHN |
-|East Asia        |[Hong Kong](https://javierparada.github.io/EL5M/html/HKG.html)                       |HKG |
+|East Asia        |[Hong Kong SAR, China](https://javierparada.github.io/EL5M/html/HKG.html)            |HKG |
 |East Asia        |[Japan](https://javierparada.github.io/EL5M/html/JPN.html)                           |JPN |
 |East Asia        |[South Korea](https://javierparada.github.io/EL5M/html/KOR.html)                     |KOR |
-|East Asia        |[Macao](https://javierparada.github.io/EL5M/html/MAC.html)                           |MAC |
+|East Asia        |[Macao SAR, China](https://javierparada.github.io/EL5M/html/MAC.html)                |MAC |
 |Northern Asia    |[Mongolia](https://javierparada.github.io/EL5M/html/MNG.html)                        |MNG |
-|Northern Asia    |[Russia](https://javierparada.github.io/EL5M/html/RUS.html)                          |RUS |
+|Northern Asia    |[Russian Federation](https://javierparada.github.io/EL5M/html/RUS.html)              |RUS |
 |South Asia       |[Afghanistan](https://javierparada.github.io/EL5M/html/AFG.html)                     |AFG |
 |South Asia       |[Bangladesh](https://javierparada.github.io/EL5M/html/BGD.html)                      |BGD |
 |South Asia       |[Bhutan](https://javierparada.github.io/EL5M/html/BTN.html)                          |BTN |
@@ -135,7 +135,7 @@ This section describes the results of measuring the proportion of land area wher
 |South East Asia  |[Singapore](https://javierparada.github.io/EL5M/html/SGP.html)                       |SGP |
 |South East Asia  |[Thailand](https://javierparada.github.io/EL5M/html/THA.html)                        |THA |
 |South East Asia  |[Timor-Leste](https://javierparada.github.io/EL5M/html/TLS.html)                     |TLS |
-|South East Asia  |[Viet Nam](https://javierparada.github.io/EL5M/html/VNM.html)                        |VNM |
+|South East Asia  |[Vietnam](https://javierparada.github.io/EL5M/html/VNM.html)                         |VNM |
 |South West Asia  |[United Arab Emirates](https://javierparada.github.io/EL5M/html/ARE.html)            |ARE |
 |South West Asia  |[Armenia](https://javierparada.github.io/EL5M/html/ARM.html)                         |ARM |
 |South West Asia  |[Azerbaijan](https://javierparada.github.io/EL5M/html/AZE.html)                      |AZE |
@@ -220,3 +220,8 @@ This section describes the results of measuring the proportion of land area wher
 |Pacific          |[Tuvalu](https://javierparada.github.io/EL5M/html/TUV.html)                          |TUV |
 |Pacific          |[Vanuatu](https://javierparada.github.io/EL5M/html/VUT.html)                         |VUT |
 |Pacific          |[Samoa](https://javierparada.github.io/EL5M/html/WSM.html)                           |WSM |
+|Missing          |[Australia](https://javierparada.github.io/EL5M/html/AUS.html)                       |AUS |
+|Missing          |[Brazil](https://javierparada.github.io/EL5M/html/BRA.html)                          |BRA |
+|Missing          |[Canada](https://javierparada.github.io/EL5M/html/CAN.html)                          |CAN |
+|Missing          |[United States](https://javierparada.github.io/EL5M/html/USA.html)                   |USA |
+|Missing          |[North Korea](https://javierparada.github.io/EL5M/html/PRK.html)                     |PRK |
