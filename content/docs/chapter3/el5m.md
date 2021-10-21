@@ -113,6 +113,7 @@ This section describes the results of measuring the proportion of land area wher
 |East Asia        |[China](https://javierparada.github.io/EL5M/html/CHN.html)                           |CHN |
 |East Asia        |[Hong Kong SAR, China](https://javierparada.github.io/EL5M/html/HKG.html)            |HKG |
 |East Asia        |[Japan](https://javierparada.github.io/EL5M/html/JPN.html)                           |JPN |
+|East Asia        |[North Korea](https://javierparada.github.io/EL5M/html/PRK.html)                     |PRK |
 |East Asia        |[South Korea](https://javierparada.github.io/EL5M/html/KOR.html)                     |KOR |
 |East Asia        |[Macao SAR, China](https://javierparada.github.io/EL5M/html/MAC.html)                |MAC |
 |Northern Asia    |[Mongolia](https://javierparada.github.io/EL5M/html/MNG.html)                        |MNG |
@@ -224,4 +225,3 @@ This section describes the results of measuring the proportion of land area wher
 |Missing          |[Brazil](https://javierparada.github.io/EL5M/html/BRA.html)                          |BRA |
 |Missing          |[Canada](https://javierparada.github.io/EL5M/html/CAN.html)                          |CAN |
 |Missing          |[United States](https://javierparada.github.io/EL5M/html/USA.html)                   |USA |
-|Missing          |[North Korea](https://javierparada.github.io/EL5M/html/PRK.html)                     |PRK |
