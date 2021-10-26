@@ -74,7 +74,9 @@ This section describes the results of measuring the proportion of land area wher
 |Central America  |[Nicaragua](https://javierparada.github.io/EL5M/html/NIC.html)                       |NIC |
 |Central America  |[Panama](https://javierparada.github.io/EL5M/html/PAN.html)                          |PAN |
 |Central America  |[El Salvador](https://javierparada.github.io/EL5M/html/SLV.html)                     |SLV |
+|North America    |[Canada](https://javierparada.github.io/EL5M/html/CAN.html)                          |CAN |
 |North America    |[Greenland](https://javierparada.github.io/EL5M/html/GRL.html)                       |GRL |
+|North America    |[United States](https://javierparada.github.io/EL5M/html/USA.html)                   |USA |
 |South America    |[Argentina](https://javierparada.github.io/EL5M/html/ARG.html)                       |ARG |
 |South America    |[Bolivia](https://javierparada.github.io/EL5M/html/BOL.html)                         |BOL |
 |South America    |[Chile](https://javierparada.github.io/EL5M/html/CHL.html)                           |CHL |
@@ -204,6 +206,7 @@ This section describes the results of measuring the proportion of land area wher
 |Indian Ocean     |[Mauritius](https://javierparada.github.io/EL5M/html/MUS.html)                       |MUS |
 |Indian Ocean     |[Seychelles](https://javierparada.github.io/EL5M/html/SYC.html)                      |SYC |
 |Pacific          |[American Samoa](https://javierparada.github.io/EL5M/html/ASM.html)                  |ASM |
+|Pacific          |[Australia](https://javierparada.github.io/EL5M/html/AUS.html)                       |AUS |
 |Pacific          |[Fiji](https://javierparada.github.io/EL5M/html/FJI.html)                            |FJI |
 |Pacific          |[Micronesia](https://javierparada.github.io/EL5M/html/FSM.html)                      |FSM |
 |Pacific          |[Guam](https://javierparada.github.io/EL5M/html/GUM.html)                            |GUM |
@@ -221,7 +224,4 @@ This section describes the results of measuring the proportion of land area wher
 |Pacific          |[Tuvalu](https://javierparada.github.io/EL5M/html/TUV.html)                          |TUV |
 |Pacific          |[Vanuatu](https://javierparada.github.io/EL5M/html/VUT.html)                         |VUT |
 |Pacific          |[Samoa](https://javierparada.github.io/EL5M/html/WSM.html)                           |WSM |
-|Missing          |[Australia](https://javierparada.github.io/EL5M/html/AUS.html)                       |AUS |
 |Missing          |[Brazil](https://javierparada.github.io/EL5M/html/BRA.html)                          |BRA |
-|Missing          |[Canada](https://javierparada.github.io/EL5M/html/CAN.html)                          |CAN |
-|Missing          |[United States](https://javierparada.github.io/EL5M/html/USA.html)                   |USA |
