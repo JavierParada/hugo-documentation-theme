@@ -16,3 +16,4 @@ This section describes the results of measuring the proportion of land area wher
 
 <div class="flourish-embed flourish-table" data-src="visualisation/7722287"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### Population living in areas where elevation is below 5 meters (% of total population)
