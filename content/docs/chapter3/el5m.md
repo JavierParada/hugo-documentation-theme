@@ -78,7 +78,7 @@ This section describes the results of measuring the proportion of land area wher
 |North America    |[Greenland](https://javierparada.github.io/EL5M/html/GRL.html)                       |GRL |
 |North America    |[United States](https://javierparada.github.io/EL5M/html/USA.html)                   |USA |
 |South America    |[Argentina](https://javierparada.github.io/EL5M/html/ARG.html)                       |ARG |
-|South America    |[Brazil](https://javierparada.github.io/EL5M/html/BRA)                          |BRA |
+|South America    |[Brazil](https://javierparada.github.io/EL5M/html/BRA.html)                          |BRA |
 |South America    |[Bolivia](https://javierparada.github.io/EL5M/html/BOL.html)                         |BOL |
 |South America    |[Chile](https://javierparada.github.io/EL5M/html/CHL.html)                           |CHL |
 |South America    |[Colombia](https://javierparada.github.io/EL5M/html/COL.html)                        |COL |
