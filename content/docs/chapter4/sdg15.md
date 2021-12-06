@@ -39,3 +39,5 @@ An analysis by the World Resources Institute (WRI) found that ending forest loss
 <iframe width="1080" height="600" src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=-23.485,44.04482,8.793,latLng&t=0.8&ps=50&bt=19840101&et=20201231&startDwell=0&endDwell=0" frameborder="0" allowfullscreen></iframe>
 
 https://www.wri.org/insights/what-cop26-means-forests-climate
+
+https://www.fao.org/forest-resources-assessment/2020/en/
