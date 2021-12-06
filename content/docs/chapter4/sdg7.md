@@ -10,4 +10,4 @@ weight: 1
 
 ## Energy transitions towards renewable energy
 
-https://tab.worldbank.org/t/WBG/views/EnergyTransitions/Transitions?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link 
+[Tableau dashboard](https://tab.worldbank.org/t/WBG/views/EnergyTransitions/Transitions?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
