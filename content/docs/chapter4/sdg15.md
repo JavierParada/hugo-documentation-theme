@@ -10,7 +10,7 @@ weight: 1
 
 ## What will it take to end deforestation by 2030?
 
-In a new pledge made at the COP26 climate conference in Glasgow, 127 countries signed the Glasgow Leaders’ Declaration on Forests and Land Use:
+In a new pledge made at the COP26 climate conference in Glasgow, 127 countries signed the [Glasgow Leaders’ Declaration on Forests and Land Use]{https://ukcop26.org/glasgow-leaders-declaration-on-forests-and-land-use/}:
 
 *We therefore commit to working collectively to halt and reverse forest loss and land degradation by 2030 while delivering sustainable development and promoting an inclusive rural transformation.* 
 
