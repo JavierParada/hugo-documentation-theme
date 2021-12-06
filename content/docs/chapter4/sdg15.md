@@ -22,5 +22,7 @@ An analysis by the World Resources Institute (WRI) found that ending forest loss
 
 ## Brazil, Indonesia, and Democratic Republic of Congo
 
+<div class="flourish-embed flourish-scatter" data-src="visualisation/8049804"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 https://www.wri.org/insights/what-cop26-means-forests-climate
