@@ -26,9 +26,15 @@ An analysis by the World Resources Institute (WRI) found that ending forest loss
 
 ## Timelapse videos
 
+### Bolivia
+
 <iframe width="1080" height="600" src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=-16.68536,-62.85936,8.676,latLng&t=2.9&ps=50&bt=19840101&et=20201231&startDwell=0&endDwell=0" frameborder="0" allowfullscreen></iframe>
 
+### Brazil
+
 <iframe width="1080" height="600" src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=-10.80696,-62.36113,5.927,latLng&t=0.8&ps=50&bt=19840101&et=20201231&startDwell=0&endDwell=0" frameborder="0" allowfullscreen></iframe>
+
+### Madagascar
 
 <iframe width="1080" height="600" src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=-23.485,44.04482,8.793,latLng&t=0.8&ps=50&bt=19840101&et=20201231&startDwell=0&endDwell=0" frameborder="0" allowfullscreen></iframe>
 
