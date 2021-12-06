@@ -18,4 +18,9 @@ There remains ambiguity about whether the pledge means “zero” deforestation 
 
 An analysis by the World Resources Institute (WRI) found that ending forest loss by 2030 in all signatory countries of the pledge would avoid 33 million hectares of forest loss, an area roughly the size of Malaysia. It would also avoid emissions of 19 gigatonnes of carbon dioxide equivalent (GtCO2e), around twice the annual emissions of China.
 
+<iframe src="https://ourworldindata.org/grapher/forest-area-as-share-of-land-area" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+## Brazil, Indonesia, and Democratic Republic of Congo
+
+
+https://www.wri.org/insights/what-cop26-means-forests-climate
