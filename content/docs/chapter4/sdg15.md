@@ -24,5 +24,9 @@ An analysis by the World Resources Institute (WRI) found that ending forest loss
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8049804"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Timelapse videos
+
+<iframe width="1080" height="600" src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=-16.68536,-62.85936,8.676,latLng&t=2.9&ps=50&bt=19840101&et=20201231&startDwell=0&endDwell=0" frameborder="0" allowfullscreen></iframe>
+
 
 https://www.wri.org/insights/what-cop26-means-forests-climate
