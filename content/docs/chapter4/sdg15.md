@@ -24,6 +24,10 @@ An analysis by the World Resources Institute (WRI) found that ending forest loss
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8049804"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Global Forest Change
+
+https://glad.earthengine.app/view/global-forest-change
+
 ## Timelapse videos
 
 ### Bolivia
