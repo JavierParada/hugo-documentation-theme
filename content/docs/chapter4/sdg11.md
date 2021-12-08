@@ -19,3 +19,5 @@ https://ghsl.jrc.ec.europa.eu/ucdb2018visual.php
 ## World Settlement Footprint
 
 https://www.esa.int/Applications/Observing_the_Earth/Mapping_our_human_footprint_from_space 
+
+<iframe width="649" height="360" src="https://www.youtube.com/embed/Pfyxc3eAFg0?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
