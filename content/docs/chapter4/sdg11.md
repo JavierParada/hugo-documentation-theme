@@ -8,4 +8,11 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 2
 ---
 
-## Title
+## Africa's rising cities
+
+https://www.washingtonpost.com/world/interactive/2021/africa-cities/
+
+## Urban Centre Database UCDB R2019A
+
+https://ghsl.jrc.ec.europa.eu/ucdb2018visual.php
+
