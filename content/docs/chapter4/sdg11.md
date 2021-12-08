@@ -16,3 +16,6 @@ https://www.washingtonpost.com/world/interactive/2021/africa-cities/
 
 https://ghsl.jrc.ec.europa.eu/ucdb2018visual.php
 
+## World Settlement Footprint
+
+https://www.esa.int/Applications/Observing_the_Earth/Mapping_our_human_footprint_from_space 
