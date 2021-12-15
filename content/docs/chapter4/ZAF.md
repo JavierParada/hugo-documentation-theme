@@ -26,7 +26,7 @@ South Africa produces around 229,200 gigawatt-hours electricity annually. Most o
 
 South Africa has rich coal deposits concentrated in the north-east of the country and as such the majority of South Africa's coal-fired plants are located in the Mpumalanga province. 
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/8144709"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed" data-src="story/1068655"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 South Africa has rich coal deposits concentrated in the north-east of the country and as such the majority of South Africa's coal-fired plants are located in the Mpumalanga province. 
 
