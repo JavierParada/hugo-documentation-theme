@@ -26,9 +26,11 @@ South Africa produces around 229,200 gigawatt-hours electricity annually. Most o
 
 ## Emissions
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8144975"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Super polluters approach
 
-Could countries substantially lower their electricity sector’s carbon emissions by targeting extreme polluters located within their borders? The current focus of blaming individuals (e.g., Trump, the Koch Brothers), political parties (e.g., Republicans), or demographic groups (e.g., baby boomers) as the culprits is to lose sight of the power plants that connect them to the points where energy is actually produced and the largest quantities of carbon are released. In the absence of an international cap-and-trade system, the next best strategy is to set targets for electricity sectors’ carbon intensities, measures by the amount of CO2 emitted per megawatt (MW) of electricity production and identify super polluters.
+Could countries substantially lower their electricity sector’s carbon emissions by targeting extreme polluters located within their borders? The current focus of blaming individuals (e.g., Trump, the Koch Brothers), political parties (e.g., Republicans), or demographic groups (e.g., baby boomers) as the culprits is to lose sight of the power plants that connect them to the points where energy is actually produced and the largest quantities of carbon are released. In the absence of an international cap-and-trade system, the next best strategy is to set targets for electricity sectors’ carbon intensities, measured by the amount of CO2 emitted per megawatt (MW) of electricity production and identify super polluters.
 
 <img src="/kendal.jpeg" alt="demo" class="img-responsive">
 
