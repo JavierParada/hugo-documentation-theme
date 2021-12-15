@@ -26,7 +26,7 @@ South Africa produces around 229,200 gigawatt-hours electricity annually. Most o
 
 ## Emissions
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/8144975"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed" data-src="story/1068669"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Super polluters approach
 
