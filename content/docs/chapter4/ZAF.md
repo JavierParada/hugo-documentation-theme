@@ -17,19 +17,30 @@ An example of an interaction between SDG's 7 and 13 for SDG Atlas 2022:
 ## Energy mix
 
 Coal remains a central part of the global energy mix, producing around 37% of the world’s electricity in 2019. More than 40 countries have agreed to phase out coal-fired power at the COP26 climate summit. The agreement includes 18 countries promising to phase out or stop investments in new coal-fired plants domestically and internationally for the first time.
-Could countries substantially lower their electricity sector’s carbon emissions by targeting extreme polluters located within their borders? 
+
+Eskom is a South African electricity public utility. 
+
+Eskom generates approximately 95% of electricity used in South Africa, amounting to 45% used in Africa, and emits 42% of South Africa's total greenhouse gas emissions. By releasing 1.6 million tons of sulfur dioxide into the air in 2019, Eskom is also the largest emitter of sulfur dioxide in the power industry in the world.
+
+South Africa produces around 229,200 gigawatt-hours electricity annually. Most of this electricity is consumed domestically, but around 12,000 gigawatt-hours are exported annually.
+
+South Africa has rich coal deposits concentrated in the north-east of the country and as such the majority of South Africa's coal-fired plants are located in the Mpumalanga province. 
+
+figure
+
+South Africa has rich coal deposits concentrated in the north-east of the country and as such the majority of South Africa's coal-fired plants are located in the Mpumalanga province. 
 
 ## Emissions
 
 ## Super polluters approach
 
-The current focus of blaming individuals (e.g., Trump, the Koch Brothers), political parties (e.g., Republicans), or demographic groups (e.g., baby boomers) as the culprits is to lose sight of the power plants that connect them to the points where energy is actually produced and the largest quantities of carbon are released. In the absence of an international cap-and-trade system, the next best strategy is to set targets for electricity sectors’ carbon intensities, measures by the amount of CO2 emitted per megawatt (MW) of electricity production and identify super polluters.
+Could countries substantially lower their electricity sector’s carbon emissions by targeting extreme polluters located within their borders? The current focus of blaming individuals (e.g., Trump, the Koch Brothers), political parties (e.g., Republicans), or demographic groups (e.g., baby boomers) as the culprits is to lose sight of the power plants that connect them to the points where energy is actually produced and the largest quantities of carbon are released. In the absence of an international cap-and-trade system, the next best strategy is to set targets for electricity sectors’ carbon intensities, measures by the amount of CO2 emitted per megawatt (MW) of electricity production and identify super polluters.
 
-<img src="/image1.jpg" alt="demo" class="img-responsive">
+<img src="/kendal.jpeg" alt="demo" class="img-responsive">
 
-Secunda power station is an 880-megawatt power plant in Mpumalanga, South Africa. With annual emissions of 56.5 million tons of greenhouse gases, Secunda has been identified by South African and international groups as the world’s biggest single-site emitter.
+Kendal is currently the 22nd largest coal-fired power station in the world and largest power station of any kind in Africa.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21991.579275876735!2d29.153540499747862!3d-26.56166640533784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1eeb6d665f9c9645%3A0x64c96daae082ea43!2sSasol%20Synfuels%20Power%20Station%20East%20Electrical%20Workshop!5e1!3m2!1sen!2smx!4v1639593404487!5m2!1sen!2smx" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33852.33558306316!2d28.96690253457946!3d-26.097363276076393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1eeae81f03661989%3A0x2f0f82d2083d04c1!2sEskom%20Kendal%20Power%20Station!5e1!3m2!1sen!2smx!4v1639606215481!5m2!1sen!2smx" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
 ## Largest power plants and sites of greenhouse gas emissions by country
