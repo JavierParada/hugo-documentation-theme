@@ -14,21 +14,15 @@ An example of an interaction between SDG's 7 and 13 for SDG Atlas 2022:
 - The country is currently a major emitter of greenhouse gases as a result of its addiction to coal, which it uses to generate electricity. Currently, 80% of its power comes from coal but what it generates is still not enough to satisfy demand. 
 - The vast scale of the coal operation run by the country's state power company Eskom makes South Africa the 15th largest carbon dioxide emitter in the world and also the world's largest emitter of sulphur dioxide.
 
-## Energy mix
+## Reliance on coal
 
 Coal remains a central part of the global energy mix, producing around 37% of the world’s electricity in 2019. More than 40 countries have agreed to phase out coal-fired power at the COP26 climate summit. The agreement includes 18 countries promising to phase out or stop investments in new coal-fired plants domestically and internationally for the first time.
 
-Eskom is a South African electricity public utility. 
-
-Eskom generates approximately 95% of electricity used in South Africa, amounting to 45% used in Africa, and emits 42% of South Africa's total greenhouse gas emissions. By releasing 1.6 million tons of sulfur dioxide into the air in 2019, Eskom is also the largest emitter of sulfur dioxide in the power industry in the world.
+Eskom is a South African electricity public utility. Eskom generates approximately 95% of electricity used in South Africa, amounting to 45% used in Africa, and emits 42% of South Africa's total greenhouse gas emissions. By releasing 1.6 million tons of sulfur dioxide into the air in 2019, Eskom is also the largest emitter of sulfur dioxide in the power industry in the world.
 
 South Africa produces around 229,200 gigawatt-hours electricity annually. Most of this electricity is consumed domestically, but around 12,000 gigawatt-hours are exported annually.
 
-South Africa has rich coal deposits concentrated in the north-east of the country and as such the majority of South Africa's coal-fired plants are located in the Mpumalanga province. 
-
 <div class="flourish-embed" data-src="story/1068655"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-South Africa has rich coal deposits concentrated in the north-east of the country and as such the majority of South Africa's coal-fired plants are located in the Mpumalanga province. 
 
 ## Emissions
 
@@ -44,6 +38,8 @@ Kendal is currently the 22nd largest coal-fired power station in the world and l
 
 
 ## Largest power plants and sites of greenhouse gas emissions by country
+
+South Africa has rich coal deposits concentrated in the north-east of the country and as such the majority of South Africa's coal-fired plants are located in the Mpumalanga province. 
 
 <div class="flourish-embed flourish-table" data-src="visualisation/8144782"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
