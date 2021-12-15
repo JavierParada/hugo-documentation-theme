@@ -49,3 +49,6 @@ South Africa has rich coal deposits concentrated in the north-east of the countr
 
 <img src="/image2.png" alt="demo" class="img-responsive">
 
+Global Energy Monitor
+
+https://globalenergymonitor.org/projects/global-coal-plant-tracker/tracker/
