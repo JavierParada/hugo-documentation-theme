@@ -1,5 +1,5 @@
 ---
-title: South Africa Example
+title: South Africa's transition to renewable energy
 linktitle: ZAF
 type: book
 date: "2019-05-05T00:00:00+01:00"
@@ -8,4 +8,12 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 5
 ---
 
-## South Africa's transition to renewable energy
+Interaction between goals 7 and 13
+
+## Introduction
+
+## Map
+
+## Energy mix
+
+## Politics
