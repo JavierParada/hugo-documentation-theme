@@ -26,6 +26,8 @@ South Africa produces around 229,200 gigawatt-hours electricity annually. Most o
 
 ## Emissions
 
+South Africa submitted its nationally determined contribution (NDC) for the Paris climate talks on 25 September 2015. This pledges a “peak, plateau and decline” approach, whereby emissions would peak between 2020 and 2025, plateau for roughly a decade, and then start to fall. Emissions during 2020-2025 would be between 398-614MtCO2e, it says, including land use and all sectors of the economy. 
+
 <div class="flourish-embed" data-src="story/1068669"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Super polluters approach
