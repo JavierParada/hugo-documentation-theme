@@ -26,7 +26,7 @@ South Africa produces around 229,200 gigawatt-hours electricity annually. Most o
 
 South Africa has rich coal deposits concentrated in the north-east of the country and as such the majority of South Africa's coal-fired plants are located in the Mpumalanga province. 
 
-figure
+<div class="flourish-embed flourish-chart" data-src="visualisation/8144709"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 South Africa has rich coal deposits concentrated in the north-east of the country and as such the majority of South Africa's coal-fired plants are located in the Mpumalanga province. 
 
@@ -44,6 +44,8 @@ Kendal is currently the 22nd largest coal-fired power station in the world and l
 
 
 ## Largest power plants and sites of greenhouse gas emissions by country
+
+<div class="flourish-embed flourish-table" data-src="visualisation/8144782"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <img src="/image2.png" alt="demo" class="img-responsive">
 
