@@ -62,11 +62,18 @@ Realistically, South Africa will need to buttress a substantial renewables build
 
 ## Sources
 
-[Global Energy Monitor](https://globalenergymonitor.org/projects/global-coal-plant-tracker/tracker/)
-[US Energy Information Administration](https://www.eia.gov/international/overview/world)
 [Carbon Brief](https://www.carbonbrief.org/the-carbon-brief-profile-south-africa)
-[WRI CAIT](https://www.climatewatchdata.org/ghg-emissions)
-[Foreign Policy](https://foreignpolicy.com/2021/11/12/coal-climate-south-africa-cop26-agreement/)
-[Worldometer](https://www.worldometers.info/co2-emissions/co2-emissions-by-country/)
-[Just Energy Transition Partnership](https://ukcop26.org/political-declaration-on-the-just-energy-transition-in-south-africa/)
+
 [Climate Action Tracker](https://climateactiontracker.org/countries/south-africa/)
+
+[Foreign Policy](https://foreignpolicy.com/2021/11/12/coal-climate-south-africa-cop26-agreement/)
+
+[Global Energy Monitor](https://globalenergymonitor.org/projects/global-coal-plant-tracker/tracker/)
+
+[Just Energy Transition Partnership](https://ukcop26.org/political-declaration-on-the-just-energy-transition-in-south-africa/)
+
+[US Energy Information Administration](https://www.eia.gov/international/overview/world)
+
+[WRI CAIT](https://www.climatewatchdata.org/ghg-emissions)
+
+[Worldometer](https://www.worldometers.info/co2-emissions/co2-emissions-by-country/)
