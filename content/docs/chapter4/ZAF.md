@@ -41,7 +41,7 @@ Kendal is currently the 22nd largest coal-fired power station in the world and l
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33852.33558306316!2d28.96690253457946!3d-26.097363276076393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1eeae81f03661989%3A0x2f0f82d2083d04c1!2sEskom%20Kendal%20Power%20Station!5e1!3m2!1sen!2smx!4v1639606215481!5m2!1sen!2smx" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
-## Largest power plants and sites of greenhouse gas emissions by country
+## Largest power plants
 
 South Africa has rich coal deposits concentrated in the north-east of the country and as such the majority of South Africa's coal-fired plants are located in the Mpumalanga province. 
 
@@ -49,6 +49,7 @@ South Africa has rich coal deposits concentrated in the north-east of the countr
 
 <img src="/image2.png" alt="demo" class="img-responsive">
 
+## COP26 Outcome
 
 The South Africa deal—which goes under the title of Just Energy Transition Partnership—provides $8.5 billion in grants and cheap loans over the next five years. This funding will serve three goals: 
 1. Early retirement of coal plants
