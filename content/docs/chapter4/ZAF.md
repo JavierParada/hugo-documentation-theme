@@ -49,11 +49,20 @@ South Africa has rich coal deposits concentrated in the north-east of the countr
 
 <img src="/image2.png" alt="demo" class="img-responsive">
 
+
+The South Africa deal—which goes under the title of Just Energy Transition Partnership—provides $8.5 billion in grants and cheap loans over the next five years. This funding will serve three goals: 
+1. Early retirement of coal plants
+2. Building cleaner energy sources
+3. Support for coal-dependent regions. 
+
+Retiring coal plants and supporting coal-dependent regions will be a political challenge. The transition away from coal threatens 120,000 jobs at heavily unionized mines and power plants, in a country that by some measures has the world’s highest unemployment rate and where one job often feeds a large family. But the energy transition will also require new energy sources and thus new jobs (though those rarely go to former coal workers).
+
+Realistically, South Africa will need to buttress a substantial renewables buildout with increased natural gas generation. This transition from coal to gas comes at an auspicious time: In 2019, a project led by Total discovered an estimated 1 billion barrels of natural gas off the coast of South Africa. South Africa will need this domestic gas to replace its coal generation with renewables—because weather-dependent wind and solar power always require a reliable backup power source.
+
+
 ## Sources
 
-Global Energy Monitor
-
-https://globalenergymonitor.org/projects/global-coal-plant-tracker/tracker/
+[Global Energy Monitor](https://globalenergymonitor.org/projects/global-coal-plant-tracker/tracker/)
 
 US Energy Information Administration
 
@@ -66,3 +75,17 @@ https://www.carbonbrief.org/the-carbon-brief-profile-south-africa
 WRI CAIT
 
 https://www.climatewatchdata.org/ghg-emissions
+
+Foreign Policy
+
+https://foreignpolicy.com/2021/11/12/coal-climate-south-africa-cop26-agreement/
+
+https://www.worldometers.info/co2-emissions/co2-emissions-by-country/
+
+Just Energy Transition Partnership
+
+https://ukcop26.org/political-declaration-on-the-just-energy-transition-in-south-africa/
+
+Climate Action Tracker
+
+https://climateactiontracker.org/countries/south-africa/
