@@ -7,11 +7,11 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 1
 ---
 
-This paper discusses the measurement of risk from sea level rise at the global level. It identifies low-elevation coastal zones in every country and measures the population living in these areas.  
+This paper measures the risk from sea level rise at the global level. It identifies low-elevation coastal zones in every country and measures the population living in these areas.  
 
 Our goal is to measure two indicators that have been discontinued in the World Development Indicators: 
-- AG.LND.EL5M.ZS 	Land area where elevation is below 5 meters (% of total land area) 
-- EN.POP.EL5M.ZS 	Population living in areas where elevation is below 5 meters (% of total population) 
+* `AG.LND.EL5M.ZS` Land area where elevation is below 5 meters (% of total land area) 
+* `EN.POP.EL5M.ZS` Population living in areas where elevation is below 5 meters (% of total population) 
 
 A threshold of 5 meters from sea level is used as the standard, but alternate thresholds are evaluated.  
 
@@ -33,6 +33,14 @@ The Thwaites Glacier in Antarctica is likely to collapse within a decade from 20
 
 In 2019, a study projected that in a low emission scenario, sea level will rise 30 centimeters by 2050 and 69 centimeters by 2100, relative to the level in 2000. In a high emission scenario, it will be 34 cm by 2050 and 111 cm by 2100. There is the probability that the rise will be beyond 2 meters by 2100 in the high emission scenario, which will cause displacement of 187 million people. 
 
+## Literature review 
+
+Kulp and Strauss (2019) find that more than 70% of the total number of people worldwide currently living on implicated land are in eight Asian countries: China, Bangladesh, India, Vietnam, Indonesia, Thailand, the Philippines, and Japan. 
+
+MacManus et al. (2021) 
+
+## Most vulnerable areas
+
 Less developed countries are generally more affected than industrialized countries. Asia-Pacific is the most disaster-prone region in the world and with extensive coastlines, low-lying territories, and many small island states, its geography makes it highly susceptible to rising sea levels and weather extremes.  
 
 - In Bangladesh, around 18 million people living in coastal areas will lose their homes if the sea level rises by one meter.
@@ -46,13 +54,6 @@ These issues are not exclusive to lower- and middle-income countries:
 - In the United States, coastal states with large areas of low-lying land, including Louisiana, Florida, North Carolina, California, and South Carolina, are particularly vulnerable to rising seas and coastal storm surges. 
 - About one-third of the Netherlands is below sea level and two-thirds is vulnerable to flooding.  
 - The UK is expected to be one of the countries most greatly affected by the world's changing sea levels. In London, rising sea levels could cause the Thames to flood and submerge vast areas of the capital in water. 
-
-
-## Literature review 
-
-Kulp and Strauss (2019) find that more than 70% of the total number of people worldwide currently living on implicated land are in eight Asian countries: China, Bangladesh, India, Vietnam, Indonesia, Thailand, the Philippines, and Japan. 
-
-MacManus et al. (2021) 
 
 Some of the world's cities most exposed to sea level rise are: 
 
