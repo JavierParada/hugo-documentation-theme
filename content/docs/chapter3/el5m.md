@@ -7,7 +7,7 @@ date: "2019-05-05T00:00:00+01:00"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 # [Link to EL5M Results](https://javierparada.github.io/EL5M_Area_MERIT)
 
-weight: 2
+weight: 4
 ---
 
 ### Land area where elevation is below 5 meters (% of total land area)
