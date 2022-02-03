@@ -7,8 +7,6 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 1
 ---
 
-Sea levels around the globe are increasing as ocean temperature warms and causes water to expand in volume, along with land-based ice melting and increasing the amount of water in the ocean. Rising sea levels not only make coastal living more dangerous from storm flooding and erosion, but also cause significant habitat loss and impacts to ecosystems.  
-
 This paper discusses the measurement of risk from sea level rise at the global level. It identifies low-elevation coastal zones in every country and measures the population living in these areas.  
 
 Our goal is to measure two indicators that have been discontinued in the World Development Indicators: 
@@ -17,7 +15,9 @@ Our goal is to measure two indicators that have been discontinued in the World D
 
 A threshold of 5 meters from sea level is used as the standard, but alternate thresholds are evaluated.  
 
-## Motivation 
+# Motivation 
+
+Sea levels around the globe are increasing as ocean temperature warms and causes water to expand in volume, along with land-based ice melting and increasing the amount of water in the ocean. Rising sea levels not only make coastal living more dangerous from storm flooding and erosion, but also cause significant habitat loss and impacts to ecosystems.  
 
 Sea level is rising at an accelerating rate due to global warming. Global mean sea level (GMSL) rose 11-16 cm in the twentieth century. Under higher emissions scenarios, twenty-first century rise may approach or exceed 2 meters in the case of early-onset Antarctic ice sheet instability (Kulp and Strauss, 2019).  
 
@@ -35,27 +35,17 @@ In 2019, a study projected that in a low emission scenario, sea level will rise 
 
 Less developed countries are generally more affected than industrialized countries. Asia-Pacific is the most disaster-prone region in the world and with extensive coastlines, low-lying territories, and many small island states, its geography makes it highly susceptible to rising sea levels and weather extremes.  
 
-In Bangladesh, around 18 million people living in coastal areas will lose their homes if the sea level rises by one meter.
-
-Indonesia is already planning to move its heavily populated capital Jakarta, to Borneo to protect its residents from dangerous flooding. 
-
-Parts of Ho Chi Minh City and Bangkok could be underwater by 2050. Millions of people in Vietnam's Mekong Delta could be forced to flee coastal areas. 
-
-Cities on China's eastern coast have already been making contingency plans to cope with rising sea levels, with the major financial hub of Shanghai already looking into building new drainage tunnels and tidal gates. 
-
-In India, Mumbai is an example of a colonial port city that once flourished because of its proximity to water, but is now at risk.  
-
-Africa's most populous city, Lagos, is battling floods and rising seas.  
-
- 
+- In Bangladesh, around 18 million people living in coastal areas will lose their homes if the sea level rises by one meter.
+- Indonesia is already planning to move its heavily populated capital Jakarta, to Borneo to protect its residents from dangerous flooding. 
+- Parts of Ho Chi Minh City and Bangkok could be underwater by 2050. Millions of people in Vietnam's Mekong Delta could be forced to flee coastal areas. 
+- Cities on China's eastern coast have already been making contingency plans to cope with rising sea levels, with the major financial hub of Shanghai already looking into building new drainage tunnels and tidal gates. 
+- In India, Mumbai is an example of a colonial port city that once flourished because of its proximity to water, but is now at risk.  
+- Africa's most populous city, Lagos, is battling floods and rising seas.  
 
 These issues are not exclusive to lower- and middle-income countries: 
-
-In the United States, coastal states with large areas of low-lying land, including Louisiana, Florida, North Carolina, California, and South Carolina, are particularly vulnerable to rising seas and coastal storm surges. 
-
-About one-third of the Netherlands is below sea level and two-thirds is vulnerable to flooding.  
-
-The UK is expected to be one of the countries most greatly affected by the world's changing sea levels. In London, rising sea levels could cause the Thames to flood and submerge vast areas of the capital in water. 
+- In the United States, coastal states with large areas of low-lying land, including Louisiana, Florida, North Carolina, California, and South Carolina, are particularly vulnerable to rising seas and coastal storm surges. 
+- About one-third of the Netherlands is below sea level and two-thirds is vulnerable to flooding.  
+- The UK is expected to be one of the countries most greatly affected by the world's changing sea levels. In London, rising sea levels could cause the Thames to flood and submerge vast areas of the capital in water. 
 
 
 ## Literature review 
@@ -66,7 +56,8 @@ MacManus et al. (2021)
 
 Some of the world's cities most exposed to sea level rise are: 
 
-1) Abidjan, 2) Alexandria, 3) Amsterdam, 4) Bangkok, 5) Chittagong, 6) Dhaka, 7) Guangzhou, 8) Hai Phöng, 9) Ho Chi Minh City, 10) Hong Kong, 11) Jakarta, 12) Khulna, 13) Kolkata, 14) Lagos, 15) Miami, 16) Mumbai, 17) Nagoya, 18) New Orleans, 19) New York-Newark, 20) Ningbo, 21) Osaka-Kobe, 22) Qingdao, 23) Rangoon, 24) Rotterdam, 25) Shanghai, 26) Tianjin, 27) Tokyo, 28) Virginia Beach 
+1) Abidjan, 
+2) Alexandria, 3) Amsterdam, 4) Bangkok, 5) Chittagong, 6) Dhaka, 7) Guangzhou, 8) Hai Phöng, 9) Ho Chi Minh City, 10) Hong Kong, 11) Jakarta, 12) Khulna, 13) Kolkata, 14) Lagos, 15) Miami, 16) Mumbai, 17) Nagoya, 18) New Orleans, 19) New York-Newark, 20) Ningbo, 21) Osaka-Kobe, 22) Qingdao, 23) Rangoon, 24) Rotterdam, 25) Shanghai, 26) Tianjin, 27) Tokyo, 28) Virginia Beach 
 
 ## Data 
 
@@ -78,31 +69,15 @@ The unit of analysis is every country in the world divided into districts. The d
 
 ## Methodology 
 
- 
+Link to code
 
- 
+## References
 
+Kulp, S.A., Strauss, B.H. (2019). New elevation data triple estimates of global vulnerability to sea-level rise and coastal flooding. Nat Commun 10, 4844 (2019). https://doi.org/10.1038/s41467-019-12808-z 
 
-
- 
-
-## References 
-
- 
-
-Kulp, S.A., Strauss, B.H. (2019). New elevation data triple estimates of global vulnerability to sea-level rise and coastal flooding. Nat Commun 10, 4844 (2019). https://doi.org/10.1038/s41467-019-12808-z 
-
- 
-
-MacManus, K., Balk, D., Engin, H., McGranahan, G., and Inman, R. (2021). Estimating population and urban areas at risk of coastal hazards, 1990–2015: how data choices matter. Earth System Science Data, 13(12):5747–5801. 
-
- 
+MacManus, K., Balk, D., Engin, H., McGranahan, G., and Inman, R. (2021). Estimating population and urban areas at risk of coastal hazards, 1990-2015: how data choices matter. Earth System Science Data, 13(12):5747-5801. 
 
 Sea Level Projection Tool https://sealevel.nasa.gov/ipcc-ar6-sea-level-projection-tool  
 
- 
-
-Ranking Of The World’s Cities Most Exposed To Coastal Flooding Today And In The Future 
-
-https://climate-adapt.eea.europa.eu/metadata/publications/ranking-of-the-worlds-cities-to-coastal-flooding/11240357  
+Ranking Of The World's Cities Most Exposed To Coastal Flooding Today And In The Future https://climate-adapt.eea.europa.eu/metadata/publications/ranking-of-the-worlds-cities-to-coastal-flooding/11240357  
 
