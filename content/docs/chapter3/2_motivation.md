@@ -7,8 +7,6 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 2
 ---
 
-## Motivation 
-
 Sea levels around the globe are increasing as ocean temperature warms and causes water to expand in volume, along with land-based ice melting and increasing the amount of water in the ocean. Rising sea levels not only make coastal living more dangerous from storm flooding and erosion, but also cause significant habitat loss and impacts to ecosystems.  
 
 Sea level is rising at an accelerating rate due to global warming. Global mean sea level (GMSL) rose 11-16 cm in the twentieth century. Under higher emissions scenarios, twenty-first century rise may approach or exceed 2 meters in the case of early-onset Antarctic ice sheet instability (Kulp and Strauss, 2019).  
