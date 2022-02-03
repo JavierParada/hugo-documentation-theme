@@ -12,8 +12,8 @@ Sea levels around the globe are increasing as ocean temperature warms and causes
 This paper discusses the measurement of risk from sea level rise at the global level. It identifies low-elevation coastal zones in every country and measures the population living in these areas.  
 
 Our goal is to measure two indicators that have been discontinued in the World Development Indicators: 
-AG.LND.EL5M.ZS 	Land area where elevation is below 5 meters (% of total land area) 
-EN.POP.EL5M.ZS 	Population living in areas where elevation is below 5 meters (% of total population) 
+- AG.LND.EL5M.ZS 	Land area where elevation is below 5 meters (% of total land area) 
+- EN.POP.EL5M.ZS 	Population living in areas where elevation is below 5 meters (% of total population) 
 
 A threshold of 5 meters from sea level is used as the standard, but alternate thresholds are evaluated.  
 
