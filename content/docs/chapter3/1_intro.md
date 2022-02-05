@@ -14,3 +14,5 @@ Our goal is to measure two indicators that have been discontinued in the World D
 * `EN.POP.EL5M.ZS` Population living in areas where elevation is below 5 meters (% of total population) 
 
 A threshold of 5 meters from sea level is used as the standard, but alternate thresholds are evaluated.  
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/8615308"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
