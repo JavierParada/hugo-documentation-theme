@@ -7,15 +7,13 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 2
 ---
 
-Sea levels around the globe are increasing as ocean temperature warms and causes water to expand in volume, along with land-based ice melting and increasing the amount of water in the ocean. Rising sea levels not only make coastal living more dangerous from storm flooding and erosion, but also cause significant habitat loss and impacts to ecosystems.  
-
-Sea level is rising at an accelerating rate due to global warming. Global mean sea level (GMSL) rose 11-16 cm in the twentieth century. Under higher emissions scenarios, twenty-first century rise may approach or exceed 2 meters in the case of early-onset Antarctic ice sheet instability (Kulp and Strauss, 2019).  
-
 The amount of greenhouse gas emissions in coming decades will be consequential for global mean sea level rise through a combination of ocean thermal expansion and loss of land ice. The three main reasons global warming causes sea level to rise are:  
 
-Ocean thermal expansion (hot water, which is less dense than cold water, takes up more space) 
-Rapid loss of land ice (ice sheets lose ice faster than it forms from snowfall) 
-Rapid melting of glaciers at the poles  
+* **Ocean thermal expansion (hot water, which is less dense than cold water, takes up more space)**
+* **Rapid loss of land ice (ice sheets lose ice faster than it forms from snowfall)**
+* **Rapid melting of glaciers at the poles**
+
+Sea level is rising at an accelerating rate due to global warming. Global mean sea level (GMSL) rose 11-16 cm in the twentieth century. Under higher emissions scenarios, twenty-first century rise may approach or exceed 2 meters in the case of early-onset Antarctic ice sheet instability (Kulp and Strauss, 2019).  
 
 Sea level rise since the start of the 20th century has been dominated by retreat of glaciers and expansion of the ocean, but the contributions of the two large ice sheets are expected to increase in the 21st century. Two major ice sheets exist today, in Greenland and Antarctica. Greenland's ice sheet is about three times the size of Texas, and Antarctica's could cover the surface area of the United States and Mexico combined.  
 
@@ -23,15 +21,12 @@ The Thwaites Glacier in Antarctica is likely to collapse within a decade from 20
 
 In 2019, a study projected that in a low emission scenario, sea level will rise 30 centimeters by 2050 and 69 centimeters by 2100, relative to the level in 2000. In a high emission scenario, it will be 34 cm by 2050 and 111 cm by 2100. There is the probability that the rise will be beyond 2 meters by 2100 in the high emission scenario, which will cause displacement of 187 million people. 
 
-## Literature review 
-
-Kulp and Strauss (2019) find that more than 70% of the total number of people worldwide currently living on implicated land are in eight Asian countries: China, Bangladesh, India, Vietnam, Indonesia, Thailand, the Philippines, and Japan. 
-
-MacManus et al. (2021) 
 
 ## Most vulnerable areas
 
-Less developed countries are generally more affected than industrialized countries. Asia-Pacific is the most disaster-prone region in the world and with extensive coastlines, low-lying territories, and many small island states, its geography makes it highly susceptible to rising sea levels and weather extremes.  
+Less developed countries are generally more affected than industrialized countries. Kulp and Strauss (2019) find that more than 70% of the total number of people worldwide currently living on implicated land are in eight Asian countries: China, Bangladesh, India, Vietnam, Indonesia, Thailand, the Philippines, and Japan.  Asia-Pacific is the most disaster-prone region in the world and with extensive coastlines, low-lying territories, and many small island states, its geography makes it highly susceptible to rising sea levels and weather extremes.  
+
+MacManus et al. (2021) 
 
 - In Bangladesh, around 18 million people living in coastal areas will lose their homes if the sea level rises by one meter.
 - Indonesia is already planning to move its heavily populated capital Jakarta, to Borneo to protect its residents from dangerous flooding. 
