@@ -26,7 +26,7 @@ In 2019, a study projected that in a low emission scenario, sea level will rise 
 
 Less developed countries are generally more affected than industrialized countries. Kulp and Strauss (2019) find that more than 70% of the total number of people worldwide currently living on implicated land are in eight Asian countries: China, Bangladesh, India, Vietnam, Indonesia, Thailand, the Philippines, and Japan.  Asia-Pacific is the most disaster-prone region in the world and with extensive coastlines, low-lying territories, and many small island states, its geography makes it highly susceptible to rising sea levels and weather extremes.  
 
-MacManus et al. (2021) 
+Climate change threatens people around the world but particularly in locations where concentrations of people can be expected to overlap with concentrations of physical hazards resulting from climate change. As shown by MacManus et al. (2021), low-elevation coastal zones (LECZs) are likely to contain a disproportionate and growing share of such locations:
 
 - In Bangladesh, around 18 million people living in coastal areas will lose their homes if the sea level rises by one meter.
 - Indonesia is already planning to move its heavily populated capital Jakarta, to Borneo to protect its residents from dangerous flooding. 
