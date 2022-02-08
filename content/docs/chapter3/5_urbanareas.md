@@ -14,6 +14,8 @@ weight: 5
 
 Running the analysis using the shapes of urban areas instead of districts.
 
+Urban Centre database [GHS-UCDB R2019A](http://cidportal.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_STAT_UCDB2015MT_GLOBE_R2019A/)
+
 Some of the world's cities most exposed to sea level rise are: 
 
 1) Abidjan, 
