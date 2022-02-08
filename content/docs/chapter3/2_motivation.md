@@ -22,7 +22,7 @@ The Thwaites Glacier in Antarctica is likely to collapse within a decade from 20
 In 2019, a study projected that in a low emission scenario, sea level will rise 30 centimeters by 2050 and 69 centimeters by 2100, relative to the level in 2000. In a high emission scenario, it will be 34 cm by 2050 and 111 cm by 2100. There is the probability that the rise will be beyond 2 meters by 2100 in the high emission scenario, which will cause displacement of 187 million people. 
 
 
-## Most vulnerable areas
+# Most vulnerable areas
 
 Less developed countries are generally more affected than industrialized countries. Kulp and Strauss (2019) find that more than 70% of the total number of people worldwide currently living on implicated land are in eight Asian countries: China, Bangladesh, India, Vietnam, Indonesia, Thailand, the Philippines, and Japan.  Asia-Pacific is the most disaster-prone region in the world and with extensive coastlines, low-lying territories, and many small island states, its geography makes it highly susceptible to rising sea levels and weather extremes.  
 
@@ -39,8 +39,3 @@ These issues are not exclusive to lower- and middle-income countries:
 - In the United States, coastal states with large areas of low-lying land, including Louisiana, Florida, North Carolina, California, and South Carolina, are particularly vulnerable to rising seas and coastal storm surges. 
 - About one-third of the Netherlands is below sea level and two-thirds is vulnerable to flooding.  
 - The UK is expected to be one of the countries most greatly affected by the world's changing sea levels. In London, rising sea levels could cause the Thames to flood and submerge vast areas of the capital in water. 
-
-Some of the world's cities most exposed to sea level rise are: 
-
-1) Abidjan, 
-2) Alexandria, 3) Amsterdam, 4) Bangkok, 5) Chittagong, 6) Dhaka, 7) Guangzhou, 8) Hai Phöng, 9) Ho Chi Minh City, 10) Hong Kong, 11) Jakarta, 12) Khulna, 13) Kolkata, 14) Lagos, 15) Miami, 16) Mumbai, 17) Nagoya, 18) New Orleans, 19) New York-Newark, 20) Ningbo, 21) Osaka-Kobe, 22) Qingdao, 23) Rangoon, 24) Rotterdam, 25) Shanghai, 26) Tianjin, 27) Tokyo, 28) Virginia Beach 

@@ -24,7 +24,9 @@ This analysis is divided into the following sections:
 
 ## Objective
 
-Sea levels around the globe are increasing as ocean temperature warms and causes water to expand in volume, along with land-based ice melting and increasing the amount of water in the ocean. Rising sea levels not only make coastal living more dangerous from storm flooding and erosion, but also cause significant habitat loss and impacts to ecosystems. The objective of this analysis is to create indicators of risk from sea level rise for the whole world. The current data available in the World Development Indicators can be seen below:
+Sea levels around the globe are increasing as ocean temperature warms and causes water to expand in volume, along with land-based ice melting and increasing the amount of water in the ocean. Rising sea levels not only make coastal living more dangerous from storm flooding and erosion, but also cause significant habitat loss and impacts to ecosystems. 
+
+The objective of this analysis is to create indicators of risk from sea level rise for the whole world. The current data available in the World Development Indicators can be seen below:
 
 https://data.worldbank.org/indicator/AG.LND.EL5M.ZS
 
