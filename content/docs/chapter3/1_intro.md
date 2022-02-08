@@ -15,4 +15,6 @@ Our goal is to measure two indicators that have been discontinued in the World D
 
 A threshold of 5 meters from sea level is used as the standard, but alternate thresholds are evaluated.  
 
+A preview of the results obtained is shown in the scatter plot below:
+
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8615308"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
