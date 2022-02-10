@@ -11,9 +11,15 @@ What are the data gaps in environmental indicators in the WDI?
 
 ## 1. Greenhouse gases and pollution
 
+I have updated 12 indicators using data from [CAIT](https://www.climatewatchdata.org/ghg-emissions) until 2018
+
+The rest have not been updated
+
 https://javierparada.github.io/WDIinventory_0.html
 
 ## 2. Protected areas
+
+Suggestion is to use Red List Index and drop the current indicators 
 
 https://javierparada.github.io/WDIinventory_1.html
 
