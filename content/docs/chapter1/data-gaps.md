@@ -47,8 +47,6 @@ Access to electricity is updated every year. The rest are IEA data
 
 [Inventory_6](https://javierparada.github.io/WDIinventory_6.html)
 
-Urban areas for SDG 11
-
 ## 7. Biodiversity
 
 Suggestion is to use Red List Index and drop the current indicators 
