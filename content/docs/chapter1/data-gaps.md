@@ -5,30 +5,43 @@ type: book
 date: "2019-05-05T00:00:00+01:00"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
-number_sections: true
 ---
 
 What are the data gaps in environmental indicators in the WDI?
 
-# Greenhouse gases and pollution
+## 1. Greenhouse gases and pollution
 
-## Protected areas
+## 2. Protected areas
 
-## Sea level rise
+## 3. Sea level rise
 
-## Forests and land use
+Area under 5m 
 
-## Energy access
+Population under 5m
 
-## Population
+## 4. Forests and land use
 
-## Fisheries
+Land area
 
-## Water
+Forest area
 
-## Biodiversity
+## 5. Energy access
 
-## Oceans
+Access to electricity
+
+IEA data
+
+## 6. Population
+
+Urban areas for SDG 11
+
+## 7. Biodiversity
+
+## 8. Fisheries
+
+## 9. Water
+
+## 10. Oceans
 
 No data available. Maybe add Ocean Health Index.
 
