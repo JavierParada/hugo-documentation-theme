@@ -20,3 +20,4 @@ Sea Level Projection Tool https://sealevel.nasa.gov/ipcc-ar6-sea-level-projectio
 
 Ranking Of The World's Cities Most Exposed To Coastal Flooding Today And In The Future https://climate-adapt.eea.europa.eu/metadata/publications/ranking-of-the-worlds-cities-to-coastal-flooding/11240357  
 
+Center for International Earth Science Information Network (CIESIN), Columbia University and CUNY Institute for Demographic Research (CIDR), City University of New York. 2021. Documentation for the Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, v3 (1990, 2000, 2015) Estimates, Version 3. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/z0r0-gc08

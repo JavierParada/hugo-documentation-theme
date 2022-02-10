@@ -9,5 +9,24 @@ weight: 2
 
 What are the data gaps in environmental indicators in the WDI?
 
-## Books
+## Greenhouse gases and pollution
+
+## Protected areas
+
+## Sea level rise
+
+## Forests
+
+## Energy access
+
+## Population
+
+## Fisheries
+
+## Oceans
+
+## Water
+
+## Biodiversity
+
 
