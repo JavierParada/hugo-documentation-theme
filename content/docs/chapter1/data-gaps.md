@@ -10,7 +10,7 @@ number_sections: true
 
 What are the data gaps in environmental indicators in the WDI?
 
-## Greenhouse gases and pollution
+# Greenhouse gases and pollution
 
 ## Protected areas
 
