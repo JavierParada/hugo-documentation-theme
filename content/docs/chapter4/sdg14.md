@@ -10,6 +10,8 @@ weight: 4
 
 <iframe src="//www.shipmap.org" style="width: 100%; height: 600px; border: 0" frameborder="0"></iframe><div style="width: 100%; font-size: 10px; margin-top: 4px">Created by <a target="_top" href="https://www.kiln.digital/">London-based data visualisation studio Kiln</a> and the <a target="_top" href="http://www.bartlett.ucl.ac.uk/energy">UCL Energy Institute</a></div>
 
+Link: https://www.shipmap.org 
+
 Most of the ocean (59%) is experiencing significantly increasing cumulative impact, in particular due to climate change but also from fishing, land-based pollution and shipping.
 
 In the last 50 years, fishing has had the single greatest impact on sea life. We are overfishing a third of the world's fish stocks, and another 60 percent are fished at their maximum sustainable levels. Our development of coastlines, drilling of seabeds, and plastic pollution make the seas even more inhospitable to healthy marine life populations. And that familiar villain, carbon pollution, is acidifying and warming the oceans. Together, these threats imperil some of the very foundations of marine ecosystems: coral reefs and plankton.
@@ -76,4 +78,9 @@ Stressors. We include stressors from 4 primary categories:
 * Ocean: shipping
 * Land-based: nutrient pollution, organic chemical pollution, direct human, light
 
+Keywords:
 
+** Eutrophication ** Excessive richness of nutrients in a body of water, frequently due to runoff from the land, which causes a dense growth of plant life and death of animal life from lack of oxygen. The most common nutrients causing eutrophication are nitrogen and phosphorus. The main source of nitrogen pollutants is run-off from agricultural land, whereas most phosphorus pollution comes from households and industry, including phosphorus-based detergents. Most of the commercially fixed nitrogen and mined phosphorus goes into production of fertilizer. The rising demand for fertilizer has come from the need to meet the nutritional demands of our rapidly expanding human population. The rise in intensive fertilizer use has serious implications for coastal habitats because greater application results in greater runoff, and the fraction of fertilizer lost from fields will increase with intensity of application. Nutrient removal in sewage treatment plants and promotion of phosphorus-free detergents are vital to minimize the impact of nitrogen and phosphorus pollution in Europe's waters.
+
+
+** Hypoxic dead zone ** Hypoxia occurs when dissolved oxygen (DO) concentration falls to or below 2 ml of O2/liter. When a body of water experiences hypoxic conditions, aquatic flora and fauna begin to change behavior in order to reach sections of water with higher oxygen levels. Once DO declines below 0.5 ml O2/liter in a body of water, mass mortality occurs. With such low concentration of DO, these bodies of water fail to support the aquatic life living there. Historically, many of these sites were naturally occurring. However, in the 1970s, oceanographers began noting increased instances and expanses of dead zones. These occur near inhabited coastlines, where aquatic life is most concentrated. The majority of the world’s dead zones are located along the eastern coast of the United States, and the coastlines of the Baltic States, Japan, and the Korean Peninsula.
