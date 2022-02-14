@@ -10,3 +10,19 @@ weight: 4
 
 ## Oceans
 
+What is SDG #14 Life Under Water?
+
+Conserve and sustainably use the oceans, seas and marine resources for sustainable development
+
+https://sdgs.un.org/goals/goal14 
+
+
+Do our oceans recognize political boundaries? Can they be analyzed at a country level?
+
+Marine Protected Areas
+
+
+
+
+
+
