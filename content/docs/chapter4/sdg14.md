@@ -41,15 +41,6 @@ Target 14.b: Support small scale fishers
 Target 14.c: Implement and enforce international sea law
 
 
-Too much nitrogen and phosphorus in the marine environment causes eutrophication with massive growth of nutrient-feeding algae which consume oxygen in the water column and, in extreme cases, create a dead water zone or hypoxia.
-
-## Index of coastal eutrophication 
-
-The "Index of Coastal Eutrophication (ICEP), refers to the inputs of nutrients (nitrogen, phosphorus and silica, in different forms) from rivers, and corresponding nutrient-ratio sub-indicator." The methodology for ICEP will be developed and ready by 2020. No data is available for this indicator yet.
-
-## Floating plastic debris density
-
-The "Floating Plastic Debris Density" refers to the modelled macro and micro plastics distribution in the ocean. If the quantities of floating micro is below 4.75mm, it is labeled as micro and if it is over 4.75 cm, it is labeled as macro. The amount of plastics in large marine ecosystems are measured based on "a model of surface water circulation and the use of proxy inputs". The final Floating Plastics Debris Density indicators will be ready by 2020.
 
 
 https://wesr.unep.org/indicator/index/14_1_1
@@ -82,5 +73,25 @@ Keywords:
 
 ** Eutrophication ** Excessive richness of nutrients in a body of water, frequently due to runoff from the land, which causes a dense growth of plant life and death of animal life from lack of oxygen. The most common nutrients causing eutrophication are nitrogen and phosphorus. The main source of nitrogen pollutants is run-off from agricultural land, whereas most phosphorus pollution comes from households and industry, including phosphorus-based detergents. Most of the commercially fixed nitrogen and mined phosphorus goes into production of fertilizer. The rising demand for fertilizer has come from the need to meet the nutritional demands of our rapidly expanding human population. The rise in intensive fertilizer use has serious implications for coastal habitats because greater application results in greater runoff, and the fraction of fertilizer lost from fields will increase with intensity of application. Nutrient removal in sewage treatment plants and promotion of phosphorus-free detergents are vital to minimize the impact of nitrogen and phosphorus pollution in Europe's waters.
 
+Too much nitrogen and phosphorus in the marine environment causes eutrophication with massive growth of nutrient-feeding algae which consume oxygen in the water column and, in extreme cases, create a dead water zone or hypoxia.
+
+## Index of coastal eutrophication 
+
+The "Index of Coastal Eutrophication (ICEP), refers to the inputs of nutrients (nitrogen, phosphorus and silica, in different forms) from rivers, and corresponding nutrient-ratio sub-indicator." The methodology for ICEP will be developed and ready by 2020. No data is available for this indicator yet.
+
+## Floating plastic debris density
+
+The "Floating Plastic Debris Density" refers to the modelled macro and micro plastics distribution in the ocean. If the quantities of floating micro is below 4.75mm, it is labeled as micro and if it is over 4.75 cm, it is labeled as macro. The amount of plastics in large marine ecosystems are measured based on "a model of surface water circulation and the use of proxy inputs". The final Floating Plastics Debris Density indicators will be ready by 2020.
+
+
 
 ** Hypoxic dead zone ** Hypoxia occurs when dissolved oxygen (DO) concentration falls to or below 2 ml of O2/liter. When a body of water experiences hypoxic conditions, aquatic flora and fauna begin to change behavior in order to reach sections of water with higher oxygen levels. Once DO declines below 0.5 ml O2/liter in a body of water, mass mortality occurs. With such low concentration of DO, these bodies of water fail to support the aquatic life living there. Historically, many of these sites were naturally occurring. However, in the 1970s, oceanographers began noting increased instances and expanses of dead zones. These occur near inhabited coastlines, where aquatic life is most concentrated. The majority of the world’s dead zones are located along the eastern coast of the United States, and the coastlines of the Baltic States, Japan, and the Korean Peninsula.
+
+Dead zones in the coastal oceans have spread exponentially since the 1960s and have serious consequences for ecosystem functioning. The formation of dead zones has been exacerbated by the increase in primary production and consequent worldwide coastal eutrophication fueled by riverine runoff of fertilizers and the burning of fossil fuels. Enhanced primary production results in an accumulation of particulate organic matter, which encourages microbial activity and the consumption of dissolved oxygen in bottom waters. Dead zones have now been reported from more than 400 systems, affecting a total area of more than 245,000 square kilometers, and are probably a key stressor on marine ecosystems.
+
+
+Preparing for floods on the Third Pole
+
+https://www.wsj.com/articles/which-countries-create-the-most-ocean-trash-1423767676
+
+<iframe src="https://ourworldindata.org/grapher/plastic-top-20-rivers" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
