@@ -8,6 +8,8 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 4
 ---
 
+In the last 50 years, fishing has had the single greatest impact on sea life. We are overfishing a third of the world's fish stocks, and another 60 percent are fished at their maximum sustainable levels. Our development of coastlines, drilling of seabeds, and plastic pollution make the seas even more inhospitable to healthy marine life populations. And that familiar villain, carbon pollution, is acidifying and warming the oceans. Together, these threats imperil some of the very foundations of marine ecosystems: coral reefs and plankton.
+
 ## Oceans
 
 What is SDG #14 Life Under Water?
@@ -32,9 +34,14 @@ Target 14.c: Implement and enforce international sea law
 
 Too much nitrogen and phosphorus in the marine environment causes eutrophication with massive growth of nutrient-feeding algae which consume oxygen in the water column and, in extreme cases, create a dead water zone or hypoxia.
 
-Index of coastal eutrophication 
+## Index of coastal eutrophication 
 
-Floating plastic debris density
+The "Index of Coastal Eutrophication (ICEP), refers to the inputs of nutrients (nitrogen, phosphorus and silica, in different forms) from rivers, and corresponding nutrient-ratio sub-indicator." The methodology for ICEP will be developed and ready by 2020. No data is available for this indicator yet.
+
+## Floating plastic debris density
+
+The "Floating Plastic Debris Density" refers to the modelled macro and micro plastics distribution in the ocean. If the quantities of floating micro is below 4.75mm, it is labeled as micro and if it is over 4.75 cm, it is labeled as macro. The amount of plastics in large marine ecosystems are measured based on "a model of surface water circulation and the use of proxy inputs". The final Floating Plastics Debris Density indicators will be ready by 2020.
+
 
 https://wesr.unep.org/indicator/index/14_1_1
 
@@ -46,6 +53,8 @@ https://www.unep.org/nowpap/news-and-stories/press-release/globally-consistent-a
 Do our oceans recognize political boundaries? Can they be analyzed at a country level?
 
 Marine Protected Areas
+
+From the Florida Keys to Australia’s Great Barrier Reef, pockets of oceans, bays, and estuaries around the world are designated as marine protected areas (MPAs).
 
 
 
