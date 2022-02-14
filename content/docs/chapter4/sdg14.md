@@ -8,6 +8,8 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 4
 ---
 
+<iframe src="//www.shipmap.org" style="width: 100%; height: 600px; border: 0" frameborder="0"></iframe><div style="width: 100%; font-size: 10px; margin-top: 4px">Created by <a target="_top" href="https://www.kiln.digital/">London-based data visualisation studio Kiln</a> and the <a target="_top" href="http://www.bartlett.ucl.ac.uk/energy">UCL Energy Institute</a></div>
+
 Most of the ocean (59%) is experiencing significantly increasing cumulative impact, in particular due to climate change but also from fishing, land-based pollution and shipping.
 
 In the last 50 years, fishing has had the single greatest impact on sea life. We are overfishing a third of the world's fish stocks, and another 60 percent are fished at their maximum sustainable levels. Our development of coastlines, drilling of seabeds, and plastic pollution make the seas even more inhospitable to healthy marine life populations. And that familiar villain, carbon pollution, is acidifying and warming the oceans. Together, these threats imperil some of the very foundations of marine ecosystems: coral reefs and plankton.
@@ -75,5 +77,3 @@ Stressors. We include stressors from 4 primary categories:
 * Land-based: nutrient pollution, organic chemical pollution, direct human, light
 
 
-
-<iframe src="//www.shipmap.org" style="width: 100%; height: 600px; border: 0" frameborder="0"></iframe><div style="width: 100%; font-size: 10px; margin-top: 4px">Created by <a target="_top" href="https://www.kiln.digital/">London-based data visualisation studio Kiln</a> and the <a target="_top" href="http://www.bartlett.ucl.ac.uk/energy">UCL Energy Institute</a></div>
