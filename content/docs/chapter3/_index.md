@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Chapter 3
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: How is the paper organized
 weight: 3
 icon: book-reader
 icon_pack: fas
@@ -14,7 +14,7 @@ type: book  # Do not modify.
 
 This analysis is divided into the following sections:
 
-* **Introduction to EL5M Analysis**
+* **Introduction**
 * **Motivation**
 * **Methodology**
 * **Results**
