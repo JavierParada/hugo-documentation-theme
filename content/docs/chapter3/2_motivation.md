@@ -13,15 +13,15 @@ Sea levels around the globe are increasing as ocean temperature warms and causes
 
 <img src="/spm 8.png" alt="demo" class="img-responsive" title="aaaa">
 
-Heating of the climate system has caused global mean sea level rise through ice loss on land and thermal expansion from ocean warming. Global mean sea level increased by 0.20 meters between 1901 and 2018 and will continue to rise over the 21st century. Thermal expansion explained 50% of sea level rise during 1971-2018, while ice loss from glaciers contributed 22%, ice sheets 20% and changes in land water storage 8%.
+Heating of the climate system has caused global mean sea level rise through ice loss on land and thermal expansion from ocean warming. Global mean sea level increased by 20 centimeters between 1901 and 2018 and will continue to rise over the 21st century. Thermal expansion explained 50% of sea level rise during 1971-2018, while ice loss from glaciers contributed 22%, ice sheets 20% and changes in land water storage 8%.
+
+Sea level rise since the start of the 20th century has been dominated by retreat of glaciers and expansion of the ocean, but the contributions of the two large ice sheets are expected to increase in the 21st century. Two major ice sheets exist today, in Greenland and Antarctica. Greenland's ice sheet is about three times the size of Texas, and Antarctica's could cover the surface area of the United States and Mexico combined. The Thwaites Glacier in Antarctica is likely to collapse within a decade from 2021, leading to increased outflow and contribution to sea-level rise. The glacier is the size of Florida or Britain and currently contributes four percent of annual global sea level rise. If it does collapse, global sea levels would rise by several feet putting millions of people living in coastal cities in danger zones for extreme flooding. 
 
 Human activities affect all the major climate system components, with some responding over decades and others over centuries:
 
 <img src="/sixth.png" alt="demo" class="img-responsive">
 
 Figures come from [Climate Change 2021: The Physical Science Basis from the Sixth Assessment Report of the IPCC](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Full_Report.pdf). 
-
-
 
 The amount of greenhouse gas emissions in coming decades will be consequential for global mean sea level rise through a combination of ocean thermal expansion and loss of land ice. The three main reasons global warming causes sea level to rise are:  
 
@@ -30,10 +30,6 @@ The amount of greenhouse gas emissions in coming decades will be consequential f
 * **Rapid melting of glaciers at the poles**
 
 Sea level is rising at an accelerating rate due to global warming. Global mean sea level (GMSL) rose 11-16 cm in the twentieth century. Under higher emissions scenarios, twenty-first century rise may approach or exceed 2 meters in the case of early-onset Antarctic ice sheet instability (Kulp and Strauss, 2019).  
-
-Sea level rise since the start of the 20th century has been dominated by retreat of glaciers and expansion of the ocean, but the contributions of the two large ice sheets are expected to increase in the 21st century. Two major ice sheets exist today, in Greenland and Antarctica. Greenland's ice sheet is about three times the size of Texas, and Antarctica's could cover the surface area of the United States and Mexico combined.  
-
-The Thwaites Glacier in Antarctica is likely to collapse within a decade from 2021, leading to increased outflow and contribution to sea-level rise. The glacier is the size of Florida or Britain and currently contributes four percent of annual global sea level rise. If it does collapse, global sea levels would rise by several feet putting millions of people living in coastal cities in danger zones for extreme flooding. 
 
 In 2019, a study projected that in a low emission scenario, sea level will rise 30 centimeters by 2050 and 69 centimeters by 2100, relative to the level in 2000. In a high emission scenario, it will be 34 cm by 2050 and 111 cm by 2100. There is the probability that the rise will be beyond 2 meters by 2100 in the high emission scenario, which will cause displacement of 187 million people. 
 
