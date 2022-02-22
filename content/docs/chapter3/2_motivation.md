@@ -7,8 +7,6 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 2
 ---
 
-## Motivation
-
 Sea levels around the globe are increasing as ocean temperature warms and causes water to expand in volume, along with land-based ice melting and increasing the amount of water in the ocean. Rising sea levels not only make coastal living more dangerous from storm flooding and erosion, but also cause significant habitat loss and impacts to ecosystems. 
 
 <img src="/spm 8.png" alt="demo" class="img-responsive" title="aaaa">
