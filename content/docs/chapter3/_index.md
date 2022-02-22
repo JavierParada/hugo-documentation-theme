@@ -32,12 +32,12 @@ The objective of this analysis is to create indicators of risk from sea level ri
 
 | Indicator                                                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Land area where elevation is below 5 meters (% of total land area)](https://data.worldbank.org/indicator/AG.LND.EL5M.ZS)                            |
-| [Population living in areas where elevation is below 5 meters (% of total population)](https://data.worldbank.org/indicator/EN.POP.EL5M.ZS)          |
 | [Rural land area where elevation is below 5 meters (sq. km)](https://data.worldbank.org/indicator/AG.LND.EL5M.RU.K2)                                 |
 | [Urban land area where elevation is below 5 meters (sq. km)](https://data.worldbank.org/indicator/AG.LND.EL5M.UR.K2)                                 |
+| [Land area where elevation is below 5 meters (% of total land area)](https://data.worldbank.org/indicator/AG.LND.EL5M.ZS)                            |
 | [Rural land area where elevation is below 5 meters (% of total land area)](https://data.worldbank.org/indicator/AG.LND.EL5M.RU.ZS)                   |
 | [Urban land area where elevation is below 5 meters (% of total land area)](https://data.worldbank.org/indicator/AG.LND.EL5M.UR.ZS)                   |
+| [Population living in areas where elevation is below 5 meters (% of total population)](https://data.worldbank.org/indicator/EN.POP.EL5M.ZS)          |
 | [Rural population living in areas where elevation is below 5 meters (% of total population)](https://data.worldbank.org/indicator/EN.POP.EL5M.RU.ZS) |
 | [Urban population living in areas where elevation is below 5 meters (% of total population)](https://data.worldbank.org/indicator/EN.POP.EL5M.UR.ZS) |
 
