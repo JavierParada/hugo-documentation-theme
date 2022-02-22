@@ -12,7 +12,7 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## EL5M
+## Measuring risk from sea level rise
 
 This analysis is divided into the following sections:
 
@@ -28,6 +28,6 @@ Sea levels around the globe are increasing as ocean temperature warms and causes
 
 The objective of this analysis is to create indicators of risk from sea level rise for the whole world. The current data available in the World Development Indicators can be seen below:
 
-https://data.worldbank.org/indicator/AG.LND.EL5M.ZS
+[Land area where elevation is below 5 meters (% of total land area)](https://data.worldbank.org/indicator/AG.LND.EL5M.ZS)
 
-https://data.worldbank.org/indicator/EN.POP.EL5M.ZS
+[Population living in areas where elevation is below 5 meters (% of total population)](https://data.worldbank.org/indicator/EN.POP.EL5M.ZS)
