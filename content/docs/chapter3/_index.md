@@ -20,14 +20,18 @@ This analysis is divided into the following sections:
 * **Motivation**
 * **Methodology**
 * **Results**
+* **Analysis for urban areas**
+* **References**
 
 
 ## Objective
 
 Sea levels around the globe are increasing as ocean temperature warms and causes water to expand in volume, along with land-based ice melting and increasing the amount of water in the ocean. Rising sea levels not only make coastal living more dangerous from storm flooding and erosion, but also cause significant habitat loss and impacts to ecosystems. 
 
-The objective of this analysis is to create indicators of risk from sea level rise for the whole world. The current data available in the World Development Indicators can be seen below:
+The objective of this analysis is to create indicators of risk from sea level rise for the whole world. The current indicators available in the World Development Indicators are:
 
 [Land area where elevation is below 5 meters (% of total land area)](https://data.worldbank.org/indicator/AG.LND.EL5M.ZS)
 
 [Population living in areas where elevation is below 5 meters (% of total population)](https://data.worldbank.org/indicator/EN.POP.EL5M.ZS)
+
+These two indicators have recently been updated for 2015 using the Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 3 data set published by [CIESIN](https://sedac.ciesin.columbia.edu/data/set/lecz-urban-rural-population-land-area-estimates-v3). 
