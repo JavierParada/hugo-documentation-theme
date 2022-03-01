@@ -9,7 +9,7 @@ weight: 2
 
 What are the data gaps in environmental indicators in the WDI?
 
-## 1. Greenhouse gases and pollution
+## 1. Air and Climate (Air Pollution, Climate Change, Greenhouse Gases)
 
 I have updated 12 indicators using data from [CAIT](https://www.climatewatchdata.org/ghg-emissions) until 2018.
 
@@ -19,53 +19,56 @@ The rest have not been updated
 
 [Inventory_1](https://javierparada.github.io/WDIinventory_1.html)
 
-## 2. Protected areas
+## 2. Biodiversity and protected areas
 
 I haven't worked on these ones
 
 [Inventory_2](https://javierparada.github.io/WDIinventory_2.html)
 
-## 3. Sea level rise
-
-Update Area under 5m and Population under 5m with what is available for 2015
-
-[Inventory_3](https://javierparada.github.io/WDIinventory_3.html)
-
-## 4. Forests and land use
-
-Relatively simple variables. Should not have missing values
-
-[Inventory_4](https://javierparada.github.io/WDIinventory_4.html)
-
-## 5. Energy access
-
-Access to electricity is updated every year. The rest are IEA data
-
-[Inventory_5](https://javierparada.github.io/WDIinventory_5.html)
-
-## 6. Population
-
-[Inventory_6](https://javierparada.github.io/WDIinventory_6.html)
-
-## 7. Biodiversity
-
 Suggestion is to use Red List Index and drop the current indicators 
 
 [Inventory_7](https://javierparada.github.io/WDIinventory_7.html)
 
-## 8. Fisheries
+## 3. Waste
 
-I haven't worked on these ones
+## 4. Water (Water, Inland water resources, Marine and coastal areas)
 
-[Inventory_8](https://javierparada.github.io/WDIinventory_8.html)
-
-## 9. Water
+### 4.1 Inland
 
 I believe data is available for 2018.
 
 [Inventory_9](https://javierparada.github.io/WDIinventory_9.html)
 
+### 4.2 Coastal
+
+Update Area under 5m and Population under 5m with what is available for 2015
+
+[Inventory_3](https://javierparada.github.io/WDIinventory_3.html)
+
+## 5. Forestry
+
+Relatively simple variables. Should not have missing values
+
+[Inventory_4](https://javierparada.github.io/WDIinventory_4.html)
+
+## 6. Fisheries
+
+I haven't worked on these ones
+
+[Inventory_8](https://javierparada.github.io/WDIinventory_8.html)
+
+## 7. Environmental policy (Governance, Green growth, Environmental protection, Taxes)
+## 8. Land use and agriculture
+## 9. Energy and minerals
+
+Access to electricity is updated every year. The rest are IEA data
+
+[Inventory_5](https://javierparada.github.io/WDIinventory_5.html)
+
 ## 10. Oceans
 
 No data available. Maybe add Ocean Health Index.
 
+## 11. Others
+
+[Inventory_6](https://javierparada.github.io/WDIinventory_6.html)
