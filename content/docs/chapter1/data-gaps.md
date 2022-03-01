@@ -21,13 +21,13 @@ The rest have not been updated
 
 ## 2. Biodiversity and protected areas
 
-I haven't worked on these ones
+How do we update the indicators on protected areas?
 
 [Inventory_2](https://javierparada.github.io/WDIinventory_2.html)
 
 Suggestion is to use Red List Index and drop the current indicators 
 
-[Inventory_7](https://javierparada.github.io/WDIinventory_7.html)
+[Inventory_3](https://javierparada.github.io/WDIinventory_3.html)
 
 ## 3. Waste
 
@@ -37,25 +37,25 @@ Suggestion is to use Red List Index and drop the current indicators
 
 I believe data is available for 2018.
 
-[Inventory_9](https://javierparada.github.io/WDIinventory_9.html)
+[Inventory_4](https://javierparada.github.io/WDIinventory_4.html)
 
 ### 4.2 Coastal
 
 Update Area under 5m and Population under 5m with what is available for 2015
 
-[Inventory_3](https://javierparada.github.io/WDIinventory_3.html)
+[Inventory_5](https://javierparada.github.io/WDIinventory_5.html)
 
 ## 5. Forestry
 
 Relatively simple variables. Should not have missing values
 
-[Inventory_4](https://javierparada.github.io/WDIinventory_4.html)
+[Inventory_6](https://javierparada.github.io/WDIinventory_6.html)
 
 ## 6. Fisheries
 
 I haven't worked on these ones
 
-[Inventory_8](https://javierparada.github.io/WDIinventory_8.html)
+[Inventory_7](https://javierparada.github.io/WDIinventory_7.html)
 
 ## 7. Environmental policy (Governance, Green growth, Environmental protection, Taxes)
 ## 8. Land use and agriculture
@@ -63,7 +63,7 @@ I haven't worked on these ones
 
 Access to electricity is updated every year. The rest are IEA data
 
-[Inventory_5](https://javierparada.github.io/WDIinventory_5.html)
+[Inventory_8](https://javierparada.github.io/WDIinventory_8.html)
 
 ## 10. Oceans
 
@@ -71,4 +71,4 @@ No data available. Maybe add Ocean Health Index.
 
 ## 11. Others
 
-[Inventory_6](https://javierparada.github.io/WDIinventory_6.html)
+[Inventory_9](https://javierparada.github.io/WDIinventory_9.html)
