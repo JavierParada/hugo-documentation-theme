@@ -15,7 +15,7 @@ I have updated 12 indicators using data from [CAIT](https://www.climatewatchdata
 
 [Inventory_0](https://javierparada.github.io/WDIinventory_0.html)
 
-The rest have not been updated
+The rest have not been updated (prioritize PM2.5 pollution):
 
 [Inventory_1](https://javierparada.github.io/WDIinventory_1.html)
 
@@ -25,7 +25,7 @@ How do we update the indicators on protected areas?
 
 [Inventory_2](https://javierparada.github.io/WDIinventory_2.html)
 
-Suggestion is to use Red List Index and drop the current indicators 
+Suggestion is to use Red List Index and drop the current indicators for biodiversity (check [EPI](https://epi.yale.edu/)):
 
 [Inventory_3](https://javierparada.github.io/WDIinventory_3.html)
 
@@ -35,7 +35,7 @@ Suggestion is to use Red List Index and drop the current indicators
 
 ### 4.1 Inland
 
-I believe data is available for 2018.
+I believe data is available for 2018 from Aquastat
 
 [Inventory_4](https://javierparada.github.io/WDIinventory_4.html)
 
@@ -67,7 +67,7 @@ Access to electricity is updated every year. The rest are IEA data
 
 ## 10. Oceans
 
-No data available. Maybe add Ocean Health Index.
+No data available. Maybe add Ocean Health Index and others from [SDG Indicators Database](https://unstats.un.org/sdgs/UNSDG/IndDatabasePage).
 
 ## 11. Others
 
