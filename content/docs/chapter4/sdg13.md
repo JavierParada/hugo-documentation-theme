@@ -8,6 +8,9 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 3
 ---
 
+<script src="https://climateclock.world/widget-v2.js" async></script>
+<climate-clock />
+
 # Greenhouse gas accounting
 
 Greenhouse gas accounting is the process by which organizations quantify their greenhouse gas emissions. However, this field is not nearly as developed as financial accounting and the world is currently deprived of detailed and up-to-date data on greenhouse gas emissions. The World Development Indicators have recently adopted the World Resources Institute’s Climate Analysis Indicators Tool ([CAIT](https://www.climatewatchdata.org/ghg-emissions)) as a source for country-level greenhouse gas emissions data by year with the purpose of making data on greenhouse gas emissions easily available[^1] and familiarize users with how greenhouse gas emissions are measured. Measurements indicate that China, the largest emitter of greenhouse gases, is the only country that has passed the 10 gigaton (Gt) threshold of yearly emissions of CO<sub>2</sub> equivalent (CO2e), but how much exactly is a gigaton of carbon dioxide equivalent? How can emissions be aggregated? How can we become carbon accountants and oversee the measurement of greenhouse gas emissions around the world?
