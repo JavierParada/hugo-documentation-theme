@@ -16,4 +16,4 @@ A United Nations-backed panel of climate scientists warned in a new report relea
 
 # Historical emissions
 
-Total net anthropogenic GHG emissions [FOOTNOTE 6] have continued to rise during the period 2010–2019, as have cumulative net CO2 emissions since 1850. Average annual GHG emissions during 2010-2019 were higher than in any previous decade, but the rate of growth between 2010 and 2019 was lower than that between 2000 and 2009.
+Total net anthropogenic greenhouse gas emissions have continued to rise during the period 2010–2019. Average annual greenhouse gas emissions during 2010-2019 were higher than in any previous decade.
