@@ -8,9 +8,6 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 7
 ---
 
-<script src="https://climateclock.world/widget-v2.js" async></script>
-<climate-clock />
+# SDG 13: Climate Action
 
-# Greenhouse gas accounting
-
-Greenhouse gas accounting 
+The world isn't cutting greenhouse gas emissions with anything like the speed required to avoid the most dangerous effects of climate change. 
