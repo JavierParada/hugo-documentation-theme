@@ -8,11 +8,7 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 5
 ---
 
-The world isn't cutting greenhouse gas emissions with anything like the speed required to avoid the most dangerous effects of climate change. 
-
-The international goal to limit global heating to 1.5° Celsius is officially on life support. 
-
-A United Nations-backed panel of climate scientists warned in a new report released Monday that the world may be on track to warm by more than 3°C — twice the Paris Agreement target —in a change that would painfully remake societies and life on the planet. 
+The world isn't cutting greenhouse gas emissions with anything like the speed required to avoid the most dangerous effects of climate change. The international goal to limit global heating to 1.5° Celsius is officially on life support. A United Nations-backed panel of climate scientists has warned that the world may be on track to warm by more than 3°C — twice the Paris Agreement target —in a change that would painfully remake societies and life on the planet. 
 
 # Historical emissions
 
