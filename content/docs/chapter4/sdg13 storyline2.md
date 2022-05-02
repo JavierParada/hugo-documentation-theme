@@ -17,3 +17,5 @@ A United Nations-backed panel of climate scientists warned in a new report relea
 # Historical emissions
 
 Total net anthropogenic greenhouse gas emissions have continued to rise during the period 2010–2019. Average annual greenhouse gas emissions during 2010-2019 were higher than in any previous decade.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/9769097"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
