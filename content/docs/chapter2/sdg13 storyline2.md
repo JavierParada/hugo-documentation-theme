@@ -36,4 +36,4 @@ China, the world’s biggest annual emitter, has yet to formally submit its upda
 
 The US, the second-biggest emitter on an annual basis but the biggest historically, has lifted its ambitions under President Joe Biden. It has set an economy-wide target of cutting net greenhouse gas emissions by 50-52 per cent below 2005 levels by 2030. 
 
-NGFS scenarios
+Explain NGFS scenarios
