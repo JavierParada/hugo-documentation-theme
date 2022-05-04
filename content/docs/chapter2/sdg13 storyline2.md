@@ -14,7 +14,7 @@ Human-induced climate change is already affecting many weather and climate extre
 
 ## How did we get to 417 ppm?
 
-Carbon dioxide levels in the air are at their highest in 650,000 years. Since 1850, CO2 concentrations have risen from 280 ppm (parts-per-million) to 417 ppm as of March 2022. During the same time period, global mean temperature increased approximately 1 degree Celsius above the pre-industrial baseline. In other words, the additional 137 ppm (417 - 280) of CO2 into the Earth's atmosphere has already increased global temperature by around 1.1°C.
+Carbon dioxide levels in the air are at their highest in 650,000 years. Since 1850, CO2 concentrations have risen from 280 ppm (parts-per-million) to 417 ppm as of March 2022. During the same time period, global mean temperature increased approximately 1.1 degree Celsius above the pre-industrial baseline. In other words, the additional 137 ppm (417 - 280) of CO2 into the Earth's atmosphere has already increased global temperature by around 1.1°C.
 
 CO2 has increased dramatically since the Industrial Revolution compared to paleoclimatologic (past climate) measurements over the past 800,000 years (based on the comparison of atmospheric samples contained in ancient ice cores and more recent direct measurements). 
 
@@ -32,8 +32,10 @@ Total net anthropogenic greenhouse gas emissions have continued to rise during t
 
 The legally binding targets to reduce greenhouse gas emissions are called nationally determined contributions (NDCs). 
 
-China, the world’s biggest annual emitter, has yet to formally submit its updated target. In September 2020, it announced an intention “to achieve the peaking of carbon dioxide emissions around 2030” and to be carbon neutral by 2060. 
+China, the world's biggest annual emitter, has yet to formally submit its updated target. In September 2020, it announced an intention "to achieve the peaking of carbon dioxide emissions around 2030" and to be carbon neutral by 2060. 
 
 The US, the second-biggest emitter on an annual basis but the biggest historically, has lifted its ambitions under President Joe Biden. It has set an economy-wide target of cutting net greenhouse gas emissions by 50-52 per cent below 2005 levels by 2030. 
 
 Explain NGFS scenarios
+
+Over the period 1850–2019, a total of 2,390 ± 240 (likely range) Gt CO2 of anthropogenic CO2 was emitted. 
