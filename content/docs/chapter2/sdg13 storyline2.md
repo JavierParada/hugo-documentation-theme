@@ -10,7 +10,7 @@ weight: 5
 
 The world isn't cutting greenhouse gas emissions with anything like the speed required to avoid the most dangerous effects of climate change. The international goal to limit global heating to 1.5° Celsius is officially on life support. A United Nations-backed panel of climate scientists has warned that the world may be on track to warm by more than 3°C — twice the Paris Agreement target —in a change that would painfully remake societies and life on the planet. 
 
-Time to limit warming is perilously short. Greenhouse gas pollution must peak “at the latest before 2025” to keep targets alive, the IPCC scientists write. Based on national pledges made before last November’s Glasgow climate negotiations, emissions in 2030 “would make it likely that warming will exceed 1.5°C during the 21st century".
+Human-induced climate change is already affecting many weather and climate extremes in every region across the globe. Time to limit warming is perilously short. Greenhouse gas pollution must peak "at the latest before 2025" to keep targets alive, the IPCC scientists write. Based on national pledges made before last November's Glasgow climate negotiations, emissions in 2030 “would make it likely that warming will exceed 1.5°C during the 21st century".
 
 ## How did we get to 417 ppm?
 
