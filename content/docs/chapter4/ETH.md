@@ -51,8 +51,6 @@ The MTF starts with the lowest level of access (Tier 1), referring to limited ac
 
 <img src="/access_to_electricity.jpeg" alt="demo" class="img-responsive" title="Multi-Tier Framework for Measuring Access to Electricity">
 
-<img src="/tier_of_electricity_access.jpeg" alt="demo" class="img-responsive" title="Tiers of electricity access">
-
 Seven attributes:
 
 - Capacity: What appliances can I power?
@@ -62,6 +60,9 @@ Seven attributes:
 - Affordability: Can I afford to purchase the minimum amount of electricity?
 - Formality: Is the service provided formally or by informal connections?
 - Health and Safety: Is it safe to use my electricity service or do I risk injuries from using this service?
+
+<img src="/tier_of_electricity_access.jpeg" alt="demo" class="img-responsive" title="Tiers of electricity access">
+
 
 ## MTF Diagnostic in Ethiopia
 
