@@ -73,3 +73,4 @@ Remote sensing techniques and geographic information systems have revolutionized
 
 <img src="/Ethiopia_PVOUT_mid-size-map_156x166mm-300dpi_v20191015.png" alt="demo" class="img-responsive" title="Photovoltaic Power Potential">
 
+<img src="/GEP.png" alt="demo" class="img-responsive" title="Global Electrification Platform">
