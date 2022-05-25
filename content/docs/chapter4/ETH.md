@@ -95,6 +95,8 @@ Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the ca
 
 Ashegoda wind farm is the biggest wind farm in sub Saharan Africa, consisting of 84 wind turbines. Ashegoda is located near Mekelle in the Tigray region, approximately 780 km north of the Ethiopian capital Addis Ababa. 
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5260.288982574567!2d39.57036671549295!3d13.425348708389933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x166ae1576db229db%3A0xfcd417518e6c2dac!2sAshegoda%20Wind%20Farm!5e1!3m2!1sen!2sus!4v1653506462618!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ## Solar power potential
 
 The Global Solar Atlas provides quick and easy access to solar resource and photovoltaic power potential data globally. The North and Northeast regions of Ethiopia have the highest potential for solar. 
