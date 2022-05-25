@@ -10,11 +10,11 @@ weight: 7
 
 With about 115 million people (2020), Ethiopia is the second most populous nation in Africa after Nigeria. According to the latest indicator on access to electricity for 2020, 51.1% of Ethiopia has access to electricity. This means 56.2 million people still lack access to electricity. This chapter provides a path towards universal access to electricity in Ethiopia by 2030. 
 
-## New advances in nighttime lights
-
 The country covers 1,112,000 square kilometres (472,000 sq. miles) making it roughly as large as France and Spain combined and five times the size of the UK. Approximately 78% percent of the population live in rural areas in 2020. 
 
 <img src="/eth_pd_1km_UN_2020_Image.png" alt="demo" class="img-responsive" title="Population Density 2020 UN adjusted">
+
+## New advances in nighttime lights
 
 Nighttime lights are heavily concentrated in Addis Ababa. Other than a little more brightness in Addis Ababa, the comparison between 2012 and 2016 shows very little change and a stark contrast with Saudi Arabia's coast. 
 
