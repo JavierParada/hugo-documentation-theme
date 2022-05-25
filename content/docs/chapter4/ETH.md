@@ -12,11 +12,11 @@ With about 115 million people (2020), Ethiopia is the second most populous natio
 
 ## New advances in nighttime lights
 
-The country covers 1,112,000 square kilometres (472,000 sq. miles) making it roughly as large as France and Spain combined and five times the size of the UK. Approximately 85 percent of the population live in rural areas. 
+The country covers 1,112,000 square kilometres (472,000 sq. miles) making it roughly as large as France and Spain combined and five times the size of the UK. Approximately 78% percent of the population live in rural areas in 2020. 
 
 <img src="/eth_pd_1km_UN_2020_Image.png" alt="demo" class="img-responsive" title="Population Density 2020 UN adjusted">
 
-This comparison between 2012 and 2016 shows nighttime lights are concentrated in Addis Ababa. Other than a little more brightness in Addis Ababa, there is very little change between 2012 and 2016. Stark contrast with Saudi Arabia's coast. 
+Nighttime lights are heavily concentrated in Addis Ababa. Other than a little more brightness in Addis Ababa, the comparison between 2012 and 2016 shows very little change and a stark contrast with Saudi Arabia's coast. 
 
 <img src="/ETH NTL.png" alt="demo" class="img-responsive" title="Nighttime Lights">
 
