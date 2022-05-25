@@ -38,6 +38,11 @@ The MTF starts with the lowest level of access (Tier 1), referring to limited ac
 
 <img src="/tier_of_electricity_access.jpeg" alt="demo" class="img-responsive" title="Tiers of electricity access">
 
+### Diagnostic
+
+Although 57% of households have access to at least one source of electricity, not all of them meet the criteria to be in Tier 1. Only 44.3% are in Tier 1 or above for access to electricity. That means that 12.7% of households with access to on- or off-grid electricity do not meet the criteria to be in Tier 1, usually because of Capacity or Availability.
+
+<img src="/diagnostic.png" alt="demo" class="img-responsive" title="Diagnostic">
 
 ## Power Plants
 
@@ -47,6 +52,10 @@ Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the ca
 
 
 ## Solar Power
+
+Given the low electricity consumption and uptake of appliances among rural households,
+off-grid solar solutions should be prioritized as an immediate solution for unelectrified
+rural households that are not covered by the densification program in the short term. 
 
 Remote sensing techniques and geographic information systems have revolutionized data collection by providing a range of location-specific information that was not previously accessible.
 
