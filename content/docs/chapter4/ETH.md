@@ -16,9 +16,11 @@ According to the latest indicator on access to electricity for 2020, 51.1% of Et
 
 <img src="/eth_pd_1km_UN_2020_Image.png" alt="demo" class="img-responsive" title="Population Density 2020 UN adjusted">
 
-## New advances in nighttime lights
+## Nighttime Lights 
 
-Nighttime lights are heavily concentrated in Addis Ababa. Other than a little more brightness in Addis Ababa, the comparison between 2012 and 2016 shows very little change and a stark contrast with Saudi Arabia's coast. 
+The availability of granular remotely sensed nighttime light observations opens the door to new possibilities to track access to sustainable and reliable energy. 
+
+In Ethiopia, nighttime lights are heavily concentrated in Addis Ababa. Other than a little more brightness in Addis Ababa, the comparison between 2012 and 2016 shows very little change and a stark contrast with Saudi Arabia's coast in the Red Sea. 
 
 <img src="/ETH NTL.png" alt="demo" class="img-responsive" title="Nighttime Lights">
 
@@ -53,6 +55,8 @@ Almost all households in Addis Ababa (99.9%) are connected to the grid. Therefor
 ## Current energy mix
 
 Approximately 90% of the installed generation capacity is from hydropower, while the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
+
+<img src="/IRENA_ETH.png" alt="demo" class="img-responsive" title="ETH IRENA Energy Mix">
 
 ## Power Plants
 
