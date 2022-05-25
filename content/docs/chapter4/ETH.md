@@ -78,3 +78,9 @@ Remote sensing techniques and geographic information systems have revolutionized
 <img src="/Ethiopia_PVOUT_mid-size-map_156x166mm-300dpi_v20191015.png" alt="demo" class="img-responsive" title="Photovoltaic Power Potential">
 
 <img src="/GEP.png" alt="demo" class="img-responsive" title="Global Electrification Platform">
+
+## Conclusion
+
+Despite the impressive grid expansion in Ethiopia to date, the percentage of electrified households remains low at only about 33%. The Government’s recently launched National Electrification Program envisions that by 2025, 65% of the population will be connected to the grid as they place a strong emphasis on scaling up connections in areas within short-term reach of the grid.
+
+The other 35% – or around 7.7 million households – will need an interim off-grid solution while waiting for grid expansion, or even a permanent one where appropriate, such as in very remote areas where grid access will remain too costly and logistically challenging even in the long term.
