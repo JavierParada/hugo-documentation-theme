@@ -8,7 +8,7 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 7
 ---
 
-# A rural challenge for Africa's second most populated country
+## A rural challenge for Africa's second most populated country
 
 With about 115 million people (2020), Ethiopia is the second most populous nation in Africa after Nigeria. According to the latest indicator on access to electricity for 2020, 51.1% of Ethiopia has access to electricity. This means 56.2 million people still lack access to electricity. This chapter provides a path towards universal access to electricity in Ethiopia by 2030. 
 
