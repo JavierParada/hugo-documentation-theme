@@ -56,7 +56,7 @@ Ethiopia is actively exploiting its water resources by building dams, reservoirs
 
 The Gibe III hydroelectric project is so far the largest in the country with an installed capacity of 1870 MW. For the year 2017-18 (2010 E.C) this hydroelectric dam generated 4,900 GWh.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1jqpbI5nGfSfoQwF9S9D-L0NtWPnDRfvM&hl=en&ehbc=2E312F" width="700" height="500"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1jqpbI5nGfSfoQwF9S9D-L0NtWPnDRfvM&hl=en&ehbc=2E312F" width="800" height="600"></iframe>
 
 Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the capacity of producing 45,000 MW of electric power.  With a planned installed capacity of 5.15 gigawatts, the dam will be the largest hydroelectric power plant in Africa when completed, as well as the seventh largest in the world. 
 
