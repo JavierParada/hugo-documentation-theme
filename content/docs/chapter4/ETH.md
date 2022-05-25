@@ -56,6 +56,9 @@ The Gibe III hydroelectric project is so far the largest in the country with an 
 
 Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the capacity of producing 45,000 MW of electric power.  With a planned installed capacity of 5.15 gigawatts, the dam will be the largest hydroelectric power plant in Africa when completed, as well as the seventh largest in the world. 
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1jqpbI5nGfSfoQwF9S9D-L0NtWPnDRfvM&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+
+
 ## Solar Power
 
 Given the low electricity consumption and uptake of appliances among rural households,
