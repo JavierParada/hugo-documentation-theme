@@ -101,12 +101,18 @@ Given the low electricity consumption and uptake of appliances among rural house
 off-grid solar solutions should be prioritized as an immediate solution for unelectrified
 rural households that are not covered by the densification program in the short term. 
 
+The North and Northeast regions of Ethiopia have the highest potential for solar. 
+
 <img src="/Ethiopia_PVOUT_mid-size-map_156x166mm-300dpi_v20191015.png" alt="demo" class="img-responsive" title="Photovoltaic Power Potential">
+
+The Global Electrification Platform (GEP) shows the settlements where electricity could be provided by expanding the current national grid. For the rest of the settlements, a stand-alone PV system is suggested as the best alternative to gain access to electricity for settlements that are far away from the existing grid. A simple stand-alone PV system is an automatic solar system that produces electrical power to charge banks of batteries during the day for use at night when the suns energy is unavailable.
 
 <img src="/GEP.png" alt="demo" class="img-responsive" title="Global Electrification Platform">
 
 ## Conclusion
 
-Despite the grid expansion in Ethiopia to date, the percentage of electrified households remains low at only about 51.1%. The Multi-Tier Framework's measurement of 44.3% indicating access to tiers 1-5 was even lower. 
+Despite the grid expansion in Ethiopia to date, access to electricity (% of population) remains low at only about 51.1% in 2020. The rate among the rural population is lower at 39.4% This means 56.22 million people in Ethiopia must be provided an electricity source to achieve universal access by 2030. 
+
+The Multi-Tier Framework's measurement of 44.3% indicating access to tiers 1-5 was even lower. 
 
 The Government's recently launched National Electrification Program envisions that by 2025, 65% of the population will be connected to the grid as they place a strong emphasis on scaling up connections in areas within short-term reach of the grid. The other 35% will need an interim off-grid solution while waiting for grid expansion. 
