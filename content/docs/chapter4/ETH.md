@@ -22,34 +22,33 @@ The availability of granular remotely sensed nighttime light observations opens 
 
 In Ethiopia, nighttime lights are heavily concentrated in Addis Ababa. Other than a little more brightness in Addis Ababa, the comparison between 2012 and 2016 shows very little change and a stark contrast with Saudi Arabia's coast in the Red Sea. 
 
-<img src="/ETH NTL.png" alt="demo" class="img-responsive" title="Nighttime Lights">
+<img src="/ETH/ETH NTL.png" alt="demo" class="img-responsive" title="Nighttime Lights">
 
 ## How do we measure access to electricity 
 
-Access to reliable, affordable and modern energy services is fundamental to sustainable development as codified in the SDG 7.1. Achieving this will require substantial new investment, deployment of innovative technologies, and a wide range of interventions targeted for underserved populations. The success of such interventions largely depends on data and analytics availability of existing access gaps, and potential options to overcome them. 
+Access to reliable, affordable, and modern energy services is fundamental to sustainable development as codified in the SDG 7.1. Achieving this will require substantial new investment, deployment of innovative technologies, and a wide range of interventions targeted for underserved populations. The success of such interventions largely depends on data and analytics availability of existing access gaps, and potential options to overcome them. 
 
-Acess to electricity is measured as having a connection. Based on survey data from LSMS such as the question below taken from the 2011/12 Ethiopian Rural Socioeconomic Survey. 
+Access to electricity is measured as having a connection or not. Based on survey data from LSMS such as the question below taken from the 2011/12 Ethiopian Rural Socioeconomic Survey. 
 
-<img src="/Question.png" alt="demo" class="img-responsive" title="Questionnaire">
+<img src="/ETH/Question.png" alt="demo" class="img-responsive" title="Questionnaire">
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/9287795"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-According to this measure of access to electrcity, the number of people lacking access to electricity worldwide has decreased to 732 million driven mostly by South Asia. Sub-Saharan Africa has seen an increase. In 2020, 4 out of 5 people who lack access to electricity live in Sub-Saharan Africa. 
+According to this measure of access to electricity, the number of people lacking access to electricity worldwide has decreased to 732 million driven mostly by South Asia. Sub-Saharan Africa has seen an increase. In 2020, 4 out of 5 people who lack access to electricity live in Sub-Saharan Africa. 
 
-<img src="/without.png" alt="demo" class="img-responsive" title="Population lacking access to electricity">
+<img src="/ETH/without.png" alt="demo" class="img-responsive" title="Population lacking access to electricity">
 
-Substantial progress has been made toward developing and piloting a new methodology known as
-the Multi-Tier Framework for Measuring Energy Access which is able to capture the broader
+Substantial progress has been made toward developing and piloting a new methodology known as the Multi-Tier Framework for Measuring Energy Access which can capture the broader
 dimensions of service quality and goes beyond a simple yes/no measure of energy
 access to a more refined approach that recognizes different levels of energy access.
 
 ## The Multi-Tier Framework (MTF)
 
-The Multi-Tier Framework (MTF) initiative redefines the way energy access is measured, going beyond the traditional binary measure of "connected or not connected" for electricity access. In The MTF, electricity access is measured based on the combination of seven attributes of energy across six tiers of access with minimum requirements by tier of electricity access.
+The Multi-Tier Framework (MTF) initiative redefines the way energy access is measured, going beyond the traditional binary measure of "connected or not connected" for electricity access. In the MTF, electricity access is measured based on the combination of seven attributes of energy across six tiers of access with minimum requirements by tier of electricity access.
 
 The MTF starts with the lowest level of access (Tier 1), referring to limited access to small quantities of electricity for a few hours per day, enabling the household to use electric lighting and phone charging.  This level of access can be provided by any technology, even a small solar lighting system.  Higher tiers of access are defined by higher capacity and longer duration of supply, enabling the use of medium and high load appliances (such as refrigerator, washing machine and air conditioning).
 
-<img src="/access_to_electricity.jpeg" alt="demo" class="img-responsive" title="Multi-Tier Framework for Measuring Access to Electricity">
+<img src="/ETH/access_to_electricity.jpeg" alt="demo" class="img-responsive" title="Multi-Tier Framework for Measuring Access to Electricity">
 
 Seven attributes:
 
@@ -61,7 +60,7 @@ Seven attributes:
 - Formality: Is the service provided formally or by informal connections?
 - Health and Safety: Is it safe to use my electricity service or do I risk injuries from using this service?
 
-<img src="/tier_of_electricity_access.jpeg" alt="demo" class="img-responsive" title="Tiers of electricity access">
+<img src="/ETH/tier_of_electricity_access.jpeg" alt="demo" class="img-responsive" title="Tiers of electricity access">
 
 
 ## MTF Diagnostic in Ethiopia
@@ -75,17 +74,17 @@ The MTF so far has been published for in 13 countries (7 countries published ear
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/10120322"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<img src="/diagnostic.png" alt="demo" class="img-responsive" title="Diagnostic">
+<img src="/ETH/diagnostic.png" alt="demo" class="img-responsive" title="Diagnostic">
 
 ## Current energy mix
 
 Ethiopia is actively exploiting its water resources by building dams, reservoirs, irrigation and diversion canals and hydropower stations.  Approximately 90% of the installed generation capacity is from hydropower, while the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
 
-<img src="/IRENA_ETH.png" alt="demo" class="img-responsive" title="ETH IRENA Energy Mix">
+<img src="/ETH/IRENA_ETH.png" alt="demo" class="img-responsive" title="ETH IRENA Energy Mix">
 
-<img src="/ETH Power Plants and Transmission Lines.png" alt="demo" class="img-responsive" title="ETH Power Plants and Transmission Lines">
+<img src="/ETH/ETH Power Plants and Transmission Lines.png" alt="demo" class="img-responsive" title="ETH Power Plants and Transmission Lines">
 
-<img src="/wiki_power_plants.png" alt="demo" class="img-responsive" title="Source: Wikipedia">
+<img src="/ETH/wiki_power_plants.png" alt="demo" class="img-responsive" title="Source: Wikipedia">
 
 The Gibe III hydroelectric project is so far the largest in the country with an installed capacity of 1870 MW. For the year 2017-18 (2010 E.C) this hydroelectric dam generated 4,900 GWh.
 
@@ -103,7 +102,7 @@ Ashegoda wind farm is the biggest wind farm in Ethiopia, consisting of 84 wind t
 
 The Global Solar Atlas provides quick and easy access to solar resource and photovoltaic power potential data globally. The North and Northeast regions of Ethiopia have the highest potential for solar. 
 
-<img src="/Ethiopia_PVOUT_mid-size-map_156x166mm-300dpi_v20191015.png" alt="demo" class="img-responsive" title="Photovoltaic Power Potential">
+<img src="/ETH/Ethiopia_PVOUT_mid-size-map_156x166mm-300dpi_v20191015.png" alt="demo" class="img-responsive" title="Photovoltaic Power Potential">
 
 Given the low electricity consumption and uptake of appliances among rural households in Ethiopia,
 off-grid solar solutions should be prioritized as an immediate solution for unelectrified
@@ -111,7 +110,7 @@ rural households that are not covered by the densification program in the short 
 
 The Global Electrification Platform (GEP) shows the settlements where electricity could be provided by expanding the current national grid. For the rest of the settlements, a stand-alone PV system is suggested as the best alternative to gain access to electricity for settlements that are far away from the existing grid. A simple stand-alone PV system is an automatic solar system that produces electrical power to charge banks of batteries during the day for use at night when the suns energy is unavailable.
 
-<img src="/GEP.png" alt="demo" class="img-responsive" title="Global Electrification Platform">
+<img src="/ETH/GEP.png" alt="demo" class="img-responsive" title="Global Electrification Platform">
 
 ## Conclusion
 
