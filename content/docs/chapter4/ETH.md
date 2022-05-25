@@ -14,7 +14,7 @@ According to the latest indicator on access to electricity for 2020, 51.1% of Et
 
 With about 115 million people (2020), Ethiopia is the second most populous nation in Africa after Nigeria. Ethiopia's urban population is concentrated in the capital city, Addis Ababa. Outside of Addis Ababa, the vast majority of Ethiopian population still lives in rural settlements consisting of hamlets and villages (approximately 78% percent of the population lived in rural areas in 2020). The country covers 1,112,000 square kilometres (472,000 sq. miles) making it roughly as large as France and Spain combined and five times the size of the UK. However, the distribution of population in Ethiopia is very uneven as a result of lowlands being characterized by scarcity of rainfall, high temperature, and poor vegetation and soil conditions. 
 
-<img src="/eth_pd_1km_UN_2020_Image.png" alt="demo" class="img-responsive" title="Population Density 2020 UN adjusted">
+<img src="/ETH/eth_pd_1km_UN_2020_Image.png" alt="demo" class="img-responsive" title="Population Density 2020 UN adjusted">
 
 ## Nighttime Lights 
 
