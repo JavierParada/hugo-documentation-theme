@@ -66,10 +66,11 @@ Seven attributes:
 
 ## MTF Diagnostic in Ethiopia
 
-The MTF so far has been conducted in 16 countries. The results of conducting the MTF in Ethiopia 
+The MTF so far has been conducted in 16 countries. The results of conducting the MTF in Ethiopia indicate that: 
 
-57% of households have access to at least one source of electricity: 33.1% of households have access through the grid, and 23.9% have access through off-grid solutions.
-• Of these 57% of households, only 77.7%—or 44.3% of all Ethiopian households—have access to at least basic electricity supply. The remaining 55.7% have no access to any electricity source, rely on dry-cell batteries, or have a grid or off-grid electricity supply that does not provide basic energy service (ability to light the house and charge phones and available for at least 4 hours a day, including 1 hour in the evening).
+- 57% of households have access to at least one source of electricity: 33.1% of households have access through the grid, and 23.9% have access through off-grid solutions.
+- Of these 57% of households, only 77.7% (or 44.3% of all Ethiopian households) have access to at least basic electricity supply. 
+- The remaining 55.7% have no access to any electricity source, rely on dry-cell batteries, or have a grid or off-grid electricity supply that does not provide basic energy service (ability to light the house and charge phones and available for at least 4 hours a day, including 1 hour in the evening).
 
 Almost all households in Addis Ababa (99.9%) are connected to the grid. Therefore, electricity access in Ethiopia is primarily a rural challenge. 
 
