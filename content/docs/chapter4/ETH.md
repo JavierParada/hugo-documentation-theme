@@ -40,16 +40,21 @@ The MTF starts with the lowest level of access (Tier 1), referring to limited ac
 
 ### Diagnostic
 
-Although 57% of households have access to at least one source of electricity, not all of them meet the criteria to be in Tier 1. Only 44.3% are in Tier 1 or above for access to electricity. That means that 12.7% of households with access to on- or off-grid electricity do not meet the criteria to be in Tier 1, usually because of Capacity or Availability.
+Almost all households in Addis Ababa (99.9%) are connected to the grid. Therefore, electricity access in Ethiopia is primarily a rural challenge. 
 
 <img src="/diagnostic.png" alt="demo" class="img-responsive" title="Diagnostic">
 
+## Current energy mix
+
+
+
 ## Power Plants
+
+<img src="/ETH Power Plants and Transmission Lines.png" alt="demo" class="img-responsive" title="ETH Power Plants and Transmission Lines">
 
 The Gibe III hydroelectric project is so far the largest in the country with an installed capacity of 1870 MW. For the year 2017-18 (2010 E.C) this hydroelectric dam generated 4,900 GWh.
 
-Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the capacity of producing 45,000 MW of electric power. The Dam has the potential of lifting millions of Ethiopians out of poverty and raising the standard of living. It will further connect Ethiopia with its neighbors laying the ground for regional economic integration. (Updated December 2020)
-
+Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the capacity of producing 45,000 MW of electric power.  With a planned installed capacity of 5.15 gigawatts, the dam will be the largest hydroelectric power plant in Africa when completed, as well as the seventh largest in the world. 
 
 ## Solar Power
 
