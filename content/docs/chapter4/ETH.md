@@ -28,6 +28,8 @@ Acess to electricity is measured as having a connection. Based on survey data fr
 
 <img src="/Question.png" alt="demo" class="img-responsive" title="Questionnaire">
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/9287795"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## MTF
 
 The Multi-Tier Framework (MTF) initiative redefines the way energy access is measured, going beyond the traditional binary measure of "connected or not connected" for electricity access. In The MTF, electricity access is measured based on the combination of seven attributes of energy across six tiers of access with minimum requirements by tier of electricity access.
