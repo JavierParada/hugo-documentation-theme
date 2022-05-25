@@ -85,6 +85,8 @@ Ethiopia is actively exploiting its water resources by building dams, reservoirs
 
 <img src="/ETH Power Plants and Transmission Lines.png" alt="demo" class="img-responsive" title="ETH Power Plants and Transmission Lines">
 
+<img src="/wiki_power_plants.png" alt="demo" class="img-responsive" title="Source: Wikipedia">
+
 The Gibe III hydroelectric project is so far the largest in the country with an installed capacity of 1870 MW. For the year 2017-18 (2010 E.C) this hydroelectric dam generated 4,900 GWh.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1jqpbI5nGfSfoQwF9S9D-L0NtWPnDRfvM&ehbc=2E312F" width="640" height="480"></iframe>
