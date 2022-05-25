@@ -1,5 +1,5 @@
 ---
-title: Ethiopia
+title: Electricity Access in Ethiopia
 linktitle: ETH
 type: book
 date: "2019-05-05T00:00:00+01:00"
@@ -7,6 +7,8 @@ date: "2019-05-05T00:00:00+01:00"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 7
 ---
+
+# A rural challenge for Africa's second most populated country
 
 With about 115 million people (2020), Ethiopia is the second most populous nation in Africa after Nigeria. According to the latest indicator on access to electricity for 2020, 51.1% of Ethiopia has access to electricity. This means 56.2 million people still lack access to electricity. This chapter provides a path towards universal access to electricity in Ethiopia by 2030. 
 
@@ -48,7 +50,7 @@ Almost all households in Addis Ababa (99.9%) are connected to the grid. Therefor
 
 ## Current energy mix
 
-
+Approximately 90% of the installed generation capacity is from hydropower, while the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
 
 ## Power Plants
 
@@ -64,18 +66,15 @@ Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the ca
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5304.775979077994!2d35.09144871548464!3d11.216468353982318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x16582937693ad38d%3A0x19e553f1ac0da82e!2sGrand%20Ethiopian%20Renaissance%20Dam!5e1!3m2!1sen!2sus!4v1653449078662!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-
 ## Solar Power
-
-Approximately 90% of the installed generation capacity is from hydropower, while the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia (GOE) is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
 
 Given the low electricity consumption and uptake of appliances among rural households,
 off-grid solar solutions should be prioritized as an immediate solution for unelectrified
 rural households that are not covered by the densification program in the short term. 
 
-Remote sensing techniques and geographic information systems have revolutionized data collection by providing a range of location-specific information that was not previously accessible.
-
 <img src="/Ethiopia_PVOUT_mid-size-map_156x166mm-300dpi_v20191015.png" alt="demo" class="img-responsive" title="Photovoltaic Power Potential">
+
+Remote sensing techniques and geographic information systems have revolutionized data collection by providing a range of location-specific information that was not previously accessible.
 
 <img src="/GEP.png" alt="demo" class="img-responsive" title="Global Electrification Platform">
 
