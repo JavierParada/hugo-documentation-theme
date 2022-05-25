@@ -22,9 +22,21 @@ Nighttime lights are heavily concentrated in Addis Ababa. Other than a little mo
 
 ## How do we measure access to electricity 
 
+Access to reliable, affordable and modern energy services is fundamental to sustainable development as codified in the SDG 7.1.  Achieving this will require substantial new investment, deployment of innovative technologies, and a wide range of interventions targeted for underserved populations. The success of such interventions largely depends on data and analytics availability of existing access gaps, and potential options to overcome them. 
+
 Acess to electricity is measured as having a connection. Based on survey data from LSMS such as the question below taken from the 2011/12 Ethiopian Rural Socioeconomic Survey. 
 
 <img src="/Question.png" alt="demo" class="img-responsive" title="Questionnaire">
+
+## MTF
+
+The Multi-Tier Framework (MTF) initiative redefines the way energy access is measured, going beyond the traditional binary measure of "connected or not connected" for electricity access. In The MTF, electricity access is measured based on the combination of seven attributes of energy across six tiers of access with minimum requirements by tier of electricity access.
+
+The MTF starts with the lowest level of access (Tier 1), referring to limited access to small quantities of electricity for a few hours per day, enabling the household to use electric lighting and phone charging.  This level of access can be provided by any technology, even a small solar lighting system.  Higher tiers of access are defined by higher capacity and longer duration of supply, enabling the use of medium and high load appliances (such as refrigerator, washing machine and air conditioning).
+
+<img src="/access_to_electricity.jpeg" alt="demo" class="img-responsive" title="Multi-Tier Framework for Measuring Access to Electricity">
+
+<img src="/tier_of_electricity_access.jpeg" alt="demo" class="img-responsive" title="Tiers of electricity access">
 
 
 ## Power Plants
