@@ -34,12 +34,16 @@ Acess to electricity is measured as having a connection. Based on survey data fr
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/9287795"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-The indicator 
+According to this measure of access to electrcity, the number of people lacking access to electricity worldwide has decreased to 732 million driven mostly by South Asia. Sub-Saharan Africa has seen an increase. In 2020, 4 out of 5 people who lack access to electricity live in Sub-Saharan Africa. 
 
 <img src="/without.png" alt="demo" class="img-responsive" title="Population lacking access to electricity">
 
+Substantial progress has been made toward developing and piloting a new methodology known as
+the Multi-Tier Framework for Measuring Energy Access which is able to capture the broader
+dimensions of service quality and goes beyond a simple yes/no measure of energy
+access to a more refined approach that recognizes different levels of energy access.
 
-## MTF
+## The Multi-Tier Framework (MTF)
 
 The Multi-Tier Framework (MTF) initiative redefines the way energy access is measured, going beyond the traditional binary measure of "connected or not connected" for electricity access. In The MTF, electricity access is measured based on the combination of seven attributes of energy across six tiers of access with minimum requirements by tier of electricity access.
 
@@ -49,7 +53,22 @@ The MTF starts with the lowest level of access (Tier 1), referring to limited ac
 
 <img src="/tier_of_electricity_access.jpeg" alt="demo" class="img-responsive" title="Tiers of electricity access">
 
-### Diagnostic
+Seven attributes:
+
+- Capacity: What appliances can I power?
+- Availability: Is power available when I need it?
+- Reliability: Is my service frequently interrupted?
+- Quality: Will voltage fluctuations damage my appliances?
+- Affordability: Can I afford to purchase the minimum amount of electricity?
+- Formality: Is the service provided formally or by informal connections?
+- Health and Safety: Is it safe to use my electricity service or do I risk injuries from using this service?
+
+## MTF Diagnostic in Ethiopia
+
+The MTF so far has been conducted in 16 countries. The results of conducting the MTF in Ethiopia 
+
+57% of households have access to at least one source of electricity: 33.1% of households have access through the grid, and 23.9% have access through off-grid solutions.
+• Of these 57% of households, only 77.7%—or 44.3% of all Ethiopian households—have access to at least basic electricity supply. The remaining 55.7% have no access to any electricity source, rely on dry-cell batteries, or have a grid or off-grid electricity supply that does not provide basic energy service (ability to light the house and charge phones and available for at least 4 hours a day, including 1 hour in the evening).
 
 Almost all households in Addis Ababa (99.9%) are connected to the grid. Therefore, electricity access in Ethiopia is primarily a rural challenge. 
 
