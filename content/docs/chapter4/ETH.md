@@ -50,13 +50,17 @@ Almost all households in Addis Ababa (99.9%) are connected to the grid. Therefor
 
 ## Power Plants
 
+Ethiopia is actively exploiting its water resources by building dams, reservoirs, irrigation and diversion canals and hydropower stations. 
+
 <img src="/ETH Power Plants and Transmission Lines.png" alt="demo" class="img-responsive" title="ETH Power Plants and Transmission Lines">
 
 The Gibe III hydroelectric project is so far the largest in the country with an installed capacity of 1870 MW. For the year 2017-18 (2010 E.C) this hydroelectric dam generated 4,900 GWh.
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1jqpbI5nGfSfoQwF9S9D-L0NtWPnDRfvM&hl=en&ehbc=2E312F" width="700" height="500"></iframe>
+
 Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the capacity of producing 45,000 MW of electric power.  With a planned installed capacity of 5.15 gigawatts, the dam will be the largest hydroelectric power plant in Africa when completed, as well as the seventh largest in the world. 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1jqpbI5nGfSfoQwF9S9D-L0NtWPnDRfvM&hl=en&ehbc=2E312F" width="700" height="500"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5304.775979077994!2d35.09144871548464!3d11.216468353982318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x16582937693ad38d%3A0x19e553f1ac0da82e!2sGrand%20Ethiopian%20Renaissance%20Dam!5e1!3m2!1sen!2sus!4v1653449078662!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## Solar Power
