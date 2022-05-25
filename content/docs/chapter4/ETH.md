@@ -66,13 +66,12 @@ Seven attributes:
 
 ## MTF Diagnostic in Ethiopia
 
-The MTF so far has been conducted in 16 countries. The results of conducting the MTF in Ethiopia indicate that: 
+The MTF so far has been published for in 13 countries (7 countries published early next FY: MDG, UGA, COD, SLE, ZWE, PNG, and BFA). The results of conducting the MTF in Ethiopia indicate that: 
 
 - 57% of households have access to at least one source of electricity: 33.1% of households have access through the grid, and 23.9% have access through off-grid solutions.
 - Of these 57% of households, only 77.7% (or 44.3% of all Ethiopian households) have access to at least basic electricity supply. 
-- The remaining 55.7% have no access to any electricity source, rely on dry-cell batteries, or have a grid or off-grid electricity supply that does not provide basic energy service (ability to light the house and charge phones and available for at least 4 hours a day, including 1 hour in the evening).
-
-Almost all households in Addis Ababa (99.9%) are connected to the grid. Therefore, electricity access in Ethiopia is primarily a rural challenge. 
+- The remaining 55.7% have no access to any electricity source, rely on dry-cell batteries, or have a grid or off-grid electricity supply that does not provide basic energy service (ability to light the house and charge phones and available for at least 4 hours a day, including 1 hour in the evening)
+- Almost all households in Addis Ababa (99.9%) are connected to the grid. Therefore, electricity access in Ethiopia is primarily a rural challenge. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/10120322"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -80,13 +79,9 @@ Almost all households in Addis Ababa (99.9%) are connected to the grid. Therefor
 
 ## Current energy mix
 
-Approximately 90% of the installed generation capacity is from hydropower, while the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
+Ethiopia is actively exploiting its water resources by building dams, reservoirs, irrigation and diversion canals and hydropower stations.  Approximately 90% of the installed generation capacity is from hydropower, while the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
 
 <img src="/IRENA_ETH.png" alt="demo" class="img-responsive" title="ETH IRENA Energy Mix">
-
-## Power Plants
-
-Ethiopia is actively exploiting its water resources by building dams, reservoirs, irrigation and diversion canals and hydropower stations. 
 
 <img src="/ETH Power Plants and Transmission Lines.png" alt="demo" class="img-responsive" title="ETH Power Plants and Transmission Lines">
 
@@ -100,13 +95,13 @@ Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the ca
 
 ## Solar Power
 
+Remote sensing techniques and geographic information systems have revolutionized data collection by providing a range of location-specific information that was not previously accessible.
+
 Given the low electricity consumption and uptake of appliances among rural households,
 off-grid solar solutions should be prioritized as an immediate solution for unelectrified
 rural households that are not covered by the densification program in the short term. 
 
 <img src="/Ethiopia_PVOUT_mid-size-map_156x166mm-300dpi_v20191015.png" alt="demo" class="img-responsive" title="Photovoltaic Power Potential">
-
-Remote sensing techniques and geographic information systems have revolutionized data collection by providing a range of location-specific information that was not previously accessible.
 
 <img src="/GEP.png" alt="demo" class="img-responsive" title="Global Electrification Platform">
 
