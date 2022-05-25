@@ -20,6 +20,13 @@ Nighttime lights are heavily concentrated in Addis Ababa. Other than a little mo
 
 <img src="/ETH NTL.png" alt="demo" class="img-responsive" title="Nighttime Lights">
 
+## How do we measure access to electricity 
+
+Acess to electricity is measured as having a connection. Based on survey data from LSMS such as the question below taken from the 2011/12 Ethiopian Rural Socioeconomic Survey. 
+
+<img src="/Question.png" alt="demo" class="img-responsive" title="Questionnaire">
+
+
 ## Power Plants
 
 The Gibe III hydroelectric project is so far the largest in the country with an installed capacity of 1870 MW. For the year 2017-18 (2010 E.C) this hydroelectric dam generated 4,900 GWh.
