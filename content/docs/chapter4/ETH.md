@@ -93,17 +93,15 @@ Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the ca
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5304.775979077994!2d35.09144871548464!3d11.216468353982318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x16582937693ad38d%3A0x19e553f1ac0da82e!2sGrand%20Ethiopian%20Renaissance%20Dam!5e1!3m2!1sen!2sus!4v1653449078662!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Solar Power
+## Solar power potential
 
-Remote sensing techniques and geographic information systems have revolutionized data collection by providing a range of location-specific information that was not previously accessible.
-
-Given the low electricity consumption and uptake of appliances among rural households,
-off-grid solar solutions should be prioritized as an immediate solution for unelectrified
-rural households that are not covered by the densification program in the short term. 
-
-The North and Northeast regions of Ethiopia have the highest potential for solar. 
+The Global Solar Atlas provides quick and easy access to solar resource and photovoltaic power potential data globally. The North and Northeast regions of Ethiopia have the highest potential for solar. 
 
 <img src="/Ethiopia_PVOUT_mid-size-map_156x166mm-300dpi_v20191015.png" alt="demo" class="img-responsive" title="Photovoltaic Power Potential">
+
+Given the low electricity consumption and uptake of appliances among rural households in Ethiopia,
+off-grid solar solutions should be prioritized as an immediate solution for unelectrified
+rural households that are not covered by the densification program in the short term. 
 
 The Global Electrification Platform (GEP) shows the settlements where electricity could be provided by expanding the current national grid. For the rest of the settlements, a stand-alone PV system is suggested as the best alternative to gain access to electricity for settlements that are far away from the existing grid. A simple stand-alone PV system is an automatic solar system that produces electrical power to charge banks of batteries during the day for use at night when the suns energy is unavailable.
 
