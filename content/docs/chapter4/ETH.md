@@ -87,11 +87,13 @@ Ethiopia is actively exploiting its water resources by building dams, reservoirs
 
 The Gibe III hydroelectric project is so far the largest in the country with an installed capacity of 1870 MW. For the year 2017-18 (2010 E.C) this hydroelectric dam generated 4,900 GWh.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1jqpbI5nGfSfoQwF9S9D-L0NtWPnDRfvM&hl=en&ehbc=2E312F" width="800" height="600"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1jqpbI5nGfSfoQwF9S9D-L0NtWPnDRfvM&ehbc=2E312F" width="640" height="480"></iframe>
 
 Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the capacity of producing 45,000 MW of electric power.  With a planned installed capacity of 5.15 gigawatts, the dam will be the largest hydroelectric power plant in Africa when completed, as well as the seventh largest in the world. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5304.775979077994!2d35.09144871548464!3d11.216468353982318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x16582937693ad38d%3A0x19e553f1ac0da82e!2sGrand%20Ethiopian%20Renaissance%20Dam!5e1!3m2!1sen!2sus!4v1653449078662!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+Ashegoda wind farm is the biggest wind farm in sub Saharan Africa, consisting of 84 wind turbines. Ashegoda is located near Mekelle in the Tigray region, approximately 780 km north of the Ethiopian capital Addis Ababa. 
 
 ## Solar power potential
 
