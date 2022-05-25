@@ -10,9 +10,9 @@ weight: 7
 
 ## A rural challenge for Africa's second most populated country
 
-With about 115 million people (2020), Ethiopia is the second most populous nation in Africa after Nigeria. Ethiopia's urban population is concentrated in the capital city, Addis Ababa. Outside of Addis Ababa, the vast majority of Ethiopian population still lives in rural settlements consisting of hamlets and villages (approximately 78% percent of the population lived in rural areas in 2020). The country covers 1,112,000 square kilometres (472,000 sq. miles) making it roughly as large as France and Spain combined and five times the size of the UK. However, the distribution of population in Ethiopia is very uneven as a result of lowlands being characterized by scarcity of rainfall, high temperature, and poor vegetation and soil conditions. 
-
 According to the latest indicator on access to electricity for 2020, 51.1% of Ethiopia has access to electricity. This means 56.2 million people (115,000,000 * (100-51.1)/100) still lack access to electricity. SDG7 aims to ensure access to affordable, reliable, sustainable and modern energy for all by 2030 by ensuring universal access to affordable, reliable and modern energy services, and substantially increasing the share of renewable energy in the global energy mix. This chapter provides a path towards universal access to electricity in Ethiopia by 2030. 
+
+With about 115 million people (2020), Ethiopia is the second most populous nation in Africa after Nigeria. Ethiopia's urban population is concentrated in the capital city, Addis Ababa. Outside of Addis Ababa, the vast majority of Ethiopian population still lives in rural settlements consisting of hamlets and villages (approximately 78% percent of the population lived in rural areas in 2020). The country covers 1,112,000 square kilometres (472,000 sq. miles) making it roughly as large as France and Spain combined and five times the size of the UK. However, the distribution of population in Ethiopia is very uneven as a result of lowlands being characterized by scarcity of rainfall, high temperature, and poor vegetation and soil conditions. 
 
 <img src="/eth_pd_1km_UN_2020_Image.png" alt="demo" class="img-responsive" title="Population Density 2020 UN adjusted">
 
@@ -26,13 +26,18 @@ In Ethiopia, nighttime lights are heavily concentrated in Addis Ababa. Other tha
 
 ## How do we measure access to electricity 
 
-Access to reliable, affordable and modern energy services is fundamental to sustainable development as codified in the SDG 7.1.  Achieving this will require substantial new investment, deployment of innovative technologies, and a wide range of interventions targeted for underserved populations. The success of such interventions largely depends on data and analytics availability of existing access gaps, and potential options to overcome them. 
+Access to reliable, affordable and modern energy services is fundamental to sustainable development as codified in the SDG 7.1. Achieving this will require substantial new investment, deployment of innovative technologies, and a wide range of interventions targeted for underserved populations. The success of such interventions largely depends on data and analytics availability of existing access gaps, and potential options to overcome them. 
 
 Acess to electricity is measured as having a connection. Based on survey data from LSMS such as the question below taken from the 2011/12 Ethiopian Rural Socioeconomic Survey. 
 
 <img src="/Question.png" alt="demo" class="img-responsive" title="Questionnaire">
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/9287795"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+The indicator 
+
+<img src="/without.png" alt="demo" class="img-responsive" title="Population lacking access to electricity">
+
 
 ## MTF
 
