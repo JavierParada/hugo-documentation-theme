@@ -67,6 +67,8 @@ Ethiopia is building the Grand Ethiopian Renaissance Dam (GERD) which has the ca
 
 ## Solar Power
 
+Approximately 90% of the installed generation capacity is from hydropower, while the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia (GOE) is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
+
 Given the low electricity consumption and uptake of appliances among rural households,
 off-grid solar solutions should be prioritized as an immediate solution for unelectrified
 rural households that are not covered by the densification program in the short term. 
