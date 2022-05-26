@@ -30,7 +30,7 @@ Source: NASA Earth at Night https://earthobservatory.nasa.gov/features/NightLigh
 
 Access to reliable, affordable, and modern energy services is fundamental to sustainable development as codified in the SDG 7.1. Achieving this will require substantial new investment, deployment of innovative technologies, and a wide range of interventions targeted for underserved populations. The success of such interventions largely depends on data and analytics availability of existing access gaps, and potential options to overcome them. 
 
-Access to electricity is measured as having a connection or not based on survey data from LSMS such as the question below taken from the Ethiopia Socioeconomic Survey (ESS) 2018-2019:
+Indicator 7.1.1, which measures "Proportion of population with access to electricity", is calculated as a binary measure of "connected or not connected" based on survey data. An example of a survey question from the Ethiopia Socioeconomic Survey (ESS) 2018-2019 is provided below:
 
 <img src="/ETH/Question.png" alt="demo" class="img-responsive" title="Questionnaire">
 
@@ -80,10 +80,7 @@ Seven attributes:
 
 <img src="/ETH/tier_of_electricity_access.jpeg" alt="demo" class="img-responsive" title="Tiers of electricity access">
 
-
-## MTF Diagnostic in Ethiopia
-
-The MTF so far has been published for in 13 countries (7 countries published early next FY: MDG, UGA, COD, SLE, ZWE, PNG, and BFA). The results of conducting the MTF in Ethiopia indicate that: 
+The MTF so far has been published for 13 countries (7 countries published early next FY: MDG, UGA, COD, SLE, ZWE, PNG, and BFA). The results of conducting the MTF in Ethiopia indicate that: 
 
 - 57% of households have access to at least one source of electricity: 33.1% of households have access through the grid, and 23.9% have access through off-grid solutions.
 - Of these 57% of households, only 77.7% (or 44.3% of all Ethiopian households) have access to at least basic electricity supply. 
@@ -96,9 +93,7 @@ The MTF so far has been published for in 13 countries (7 countries published ear
 
 ## Current energy mix
 
-Ethiopia's energy landscape has long been dominated by large hydro capacity (around 90 per cent in the national energy mix) and a totally state owned energy system including its state-run utility, Ethiopian Electric Power (EEP). 
-
-Ethiopia is actively exploiting its water resources by building dams, reservoirs, irrigation and diversion canals and hydropower stations.  Other than the 90% of the installed generation capacity from hydropower, the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
+Ethiopia's energy landscape has long been dominated by large hydropower capacity (around 90 per cent in the national energy mix) and a totally state owned energy system including its state-run utility, Ethiopian Electric Power (EEP). Ethiopia is actively exploiting its water resources by building dams, reservoirs, irrigation and diversion canals and hydropower stations.  Other than the 90% of the installed generation capacity from hydropower, the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
 
 <img src="/ETH/IRENA_ETH.png" alt="demo" class="img-responsive" title="ETH IRENA Energy Mix">
 
