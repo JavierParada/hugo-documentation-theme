@@ -26,7 +26,7 @@ In Ethiopia, nighttime lights are heavily concentrated in Addis Ababa. Other tha
 
 Source: NASA Earth at Night https://earthobservatory.nasa.gov/features/NightLights
 
-# How do we measure access to electricity 
+## How do we measure access to electricity 
 
 Access to reliable, affordable, and modern energy services is fundamental to sustainable development as codified in the SDG 7.1. Achieving this will require substantial new investment, deployment of innovative technologies, and a wide range of interventions targeted for underserved populations. The success of such interventions largely depends on data and analytics availability of existing access gaps, and potential options to overcome them. 
 
@@ -44,7 +44,7 @@ Substantial progress has been made toward developing and piloting a new methodol
 dimensions of service quality and goes beyond a simple yes/no measure of energy
 access to a more refined approach that recognizes different levels of energy access.
 
-# The Multi-Tier Framework (MTF)
+## The Multi-Tier Framework (MTF)
 
 The Multi-Tier Framework (MTF) initiative redefines the way energy access is measured, going beyond the traditional binary measure of "connected or not connected" for electricity access. In the MTF, electricity access is measured based on the combination of seven attributes of energy across six tiers of access with minimum requirements by tier of electricity access.
 
@@ -78,7 +78,7 @@ The MTF so far has been published for in 13 countries (7 countries published ear
 
 <img src="/ETH/diagnostic.png" alt="demo" class="img-responsive" title="Diagnostic">
 
-# Current energy mix
+## Current energy mix
 
 Ethiopia is actively exploiting its water resources by building dams, reservoirs, irrigation and diversion canals and hydropower stations.  Approximately 90% of the installed generation capacity is from hydropower, while the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
 
@@ -100,7 +100,7 @@ Ashegoda wind farm is the biggest wind farm in Ethiopia, consisting of 84 wind t
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5260.288982574567!2d39.57036671549295!3d13.425348708389933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x166ae1576db229db%3A0xfcd417518e6c2dac!2sAshegoda%20Wind%20Farm!5e1!3m2!1sen!2sus!4v1653506462618!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-# Solar power potential
+## Solar power potential
 
 The Global Solar Atlas provides quick and easy access to solar resource and photovoltaic power potential data globally. The North and Northeast regions of Ethiopia have the highest potential for solar. 
 
