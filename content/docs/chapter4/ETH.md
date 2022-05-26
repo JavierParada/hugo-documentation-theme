@@ -80,7 +80,7 @@ Seven attributes:
 
 <img src="/ETH/tier_of_electricity_access.jpeg" alt="demo" class="img-responsive" title="Tiers of electricity access">
 
-The MTF so far has been published for 13 countries (7 countries published early next FY: MDG, UGA, COD, SLE, ZWE, PNG, and BFA). The results of conducting the MTF in Ethiopia indicate that: 
+The MTF so far has been published for 13 countries (7 countries published early next FY: MDG, UGA, COD, SLE, ZWE, PNG, and BFA). The diagnostic from conducting the MTF in Ethiopia indicates that: 
 
 - 57% of households have access to at least one source of electricity: 33.1% of households have access through the grid, and 23.9% have access through off-grid solutions.
 - Of these 57% of households, only 77.7% (or 44.3% of all Ethiopian households) have access to at least basic electricity supply. 
@@ -129,9 +129,11 @@ The Global Electrification Platform (GEP) shows the settlements where electricit
 
 ## Conclusion
 
-Despite the grid expansion in Ethiopia to date, access to electricity (% of population) remains low at only about 51.1% in 2020. The rate among the rural population is lower at 39.4% This means 56.22 million people in Ethiopia must be provided an electricity source to achieve universal access by 2030. 
+Despite the grid expansion in Ethiopia to date, access to electricity (% of population) remains low in 2020. We presented two approaches to measure access to electricity:
 
-The Multi-Tier Framework's measurement of 44.3% indicating access to tiers 1-5 was even lower. 
+- Indicator 7.1.1 shows in 2020 the rate is 51.1% nationwide (39.4% and 93.2% among the rural and urban population respectively). This means 56.22 million people in Ethiopia must be provided an electricity source to achieve universal access by 2030. 
+
+- The Multi-Tier Framework 2017, indicating access to tiers 1-5, shows the rate is 44.3% nationwide (27% and 96.6% among the rural and urban population respectively). 
 
 The Government's recently launched National Electrification Program envisions that by 2025, 65% of the population will be connected to the grid as they place a strong emphasis on scaling up connections in areas within short-term reach of the grid. The other 35% will need an interim off-grid solution while waiting for grid expansion. 
 
