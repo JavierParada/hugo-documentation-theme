@@ -34,6 +34,23 @@ Access to electricity is measured as having a connection or not. Based on survey
 
 <img src="/ETH/Question.png" alt="demo" class="img-responsive" title="Questionnaire">
 
+The Ethiopia Socioeconomic Survey (ESS) 2018/19 was able to show the different level of access between urban and rural areas. In urban areas, about 87 percent of households reported using electricity as their primary source of lighting. In rural areas, solar energy, kerosene lamps, dry cell batteries, and fuelwood together comprise 90 percent of light sources.
+
+| Main source of light       | National | Rural | Urban |
+| -------------------------- | -------- | ----- | ----- |
+| Private electric meter     | 13.9     | 2.2   | 38.3  |
+| Shared electric meter      | 20.3     | 6.9   | 48.2  |
+| Solar                      | 21.5     | 30.2  | 3.5   |
+| Dry cell light with switch | 13.5     | 18.8  | 2.5   |
+| Kerosene lamp              | 19.2     | 26.8  | 3.5   |
+| Firewood                   | 10.4     | 14    | 3     |
+| Other                      | 1.1      | 1.1   | 1.1   |
+|                            | 99.9     | 100   | 100.1 |
+
+The ESS also asked households with electricity about their monthly payments: nationally, about 79 percent pay less than 100 Birr (less than US$3) per month. Households were also asked about any outages in electricity in the 7 days before the survey. About 98 percent reported at least one disruption, with disruptions about equal in rural and urban areas.
+
+With this data they calculate these rates:
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/9287795"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 According to this measure of access to electricity, the number of people lacking access to electricity worldwide has decreased to 732 million driven mostly by South Asia. Sub-Saharan Africa has seen an increase. In 2020, 4 out of 5 people who lack access to electricity live in Sub-Saharan Africa. 
