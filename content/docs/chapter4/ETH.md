@@ -49,17 +49,16 @@ The Ethiopia Socioeconomic Survey (ESS) 2018/19 was able to show how sources of 
 
 The Ethiopia Socioeconomic Survey (ESS) 2018/19 also asked households with electricity about their monthly payments: nationally, about 79 percent pay less than 100 Birr (less than US$3) per month. Households were also asked about any outages in electricity in the 7 days before the survey. About 98 percent reported at least one disruption, with disruptions about equal in rural and urban areas.
 
-With this data they calculate these rates:
+The World Bank's Global Electrification Database compiles nationally representative household survey data (such as the Ethiopia Socioeconomic Survey (ESS) 2018/19 and other LSMS, MTF, DHS, and census data). This collection of approximately 1,282 surveys from 139 countries allows the calculation of regional and global electricity access rates:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/9287795"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-According to this measure of access to electricity, the number of people lacking access to electricity worldwide has decreased to 732 million driven mostly by South Asia. Sub-Saharan Africa has seen an increase. In 2020, 4 out of 5 people who lack access to electricity live in Sub-Saharan Africa. 
+According to these electricity access rates, the number of people lacking access to electricity worldwide has decreased to 732 million driven mostly by South Asia. Sub-Saharan Africa has seen an increase. In 2020, 4 out of 5 people who lack access to electricity live in Sub-Saharan Africa. 
 
 <img src="/ETH/without.png" alt="demo" class="img-responsive" title="Population lacking access to electricity">
 
 Substantial progress has been made toward developing and piloting a new methodology known as the Multi-Tier Framework for Measuring Energy Access which can capture the broader
-dimensions of service quality and goes beyond a simple yes/no measure of energy
-access to a more refined approach that recognizes different levels of energy access.
+dimensions of service quality and goes beyond a simple yes/no measure of energy access to a more refined approach that recognizes different levels of energy access.
 
 ## The Multi-Tier Framework (MTF)
 
