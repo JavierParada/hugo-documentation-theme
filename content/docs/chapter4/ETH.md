@@ -30,11 +30,11 @@ Source: NASA Earth at Night https://earthobservatory.nasa.gov/features/NightLigh
 
 Access to reliable, affordable, and modern energy services is fundamental to sustainable development as codified in the SDG 7.1. Achieving this will require substantial new investment, deployment of innovative technologies, and a wide range of interventions targeted for underserved populations. The success of such interventions largely depends on data and analytics availability of existing access gaps, and potential options to overcome them. 
 
-Access to electricity is measured as having a connection or not based on survey data from LSMS such as the question below taken from the Ethiopia Socioeconomic Survey (ESS) 2018/19:
+Access to electricity is measured as having a connection or not based on survey data from LSMS such as the question below taken from the Ethiopia Socioeconomic Survey (ESS) 2018-2019:
 
 <img src="/ETH/Question.png" alt="demo" class="img-responsive" title="Questionnaire">
 
-The Ethiopia Socioeconomic Survey (ESS) 2018/19 was able to show how sources of electricity vary between urban and rural areas. In urban areas, about 87 percent of households reported using electricity as their primary source of lighting, compared to 9.1 percent in rural areas. In rural areas, solar energy, dry cell batteries, kerosene lamps, and firewood together comprise 90 percent of light sources.
+The Ethiopia Socioeconomic Survey (ESS) 2018-2019 was able to show how sources of electricity vary between urban and rural areas. In urban areas, about 87 percent of households reported using electricity as their primary source of lighting, compared to 9.1 percent in rural areas. In rural areas, solar energy, dry cell batteries, kerosene lamps, and firewood together comprise 90 percent of light sources.
 
 | Main source of light       | National | Rural | Urban |
 | -------------------------- | -------- | ----- | ----- |
@@ -47,9 +47,9 @@ The Ethiopia Socioeconomic Survey (ESS) 2018/19 was able to show how sources of 
 | Other                      | 1.1      | 1.1   | 1.1   |
 |                            | 99.9     | 100   | 100.1 |
 
-The Ethiopia Socioeconomic Survey (ESS) 2018/19 also asked households with electricity about their monthly payments: nationally, about 79 percent pay less than 100 Birr (less than US$3) per month. Households were also asked about any outages in electricity in the 7 days before the survey. About 98 percent reported at least one disruption, with disruptions about equal in rural and urban areas.
+The Ethiopia Socioeconomic Survey (ESS) 2018-2019 also asked households with electricity about their monthly payments: nationally, about 79 percent pay less than 100 Birr (less than US$3) per month. Households were also asked about any outages in electricity in the 7 days before the survey. About 98 percent reported at least one disruption, with disruptions about equal in rural and urban areas.
 
-The World Bank's Global Electrification Database compiles nationally representative household survey data (such as the Ethiopia Socioeconomic Survey (ESS) 2018/19 and other LSMS, MTF, DHS, and census data). This collection of approximately 1,282 surveys from 139 countries allows the calculation of regional and global electricity access rates:
+The World Bank's Global Electrification Database compiles nationally representative household survey data (such as the Ethiopia Socioeconomic Survey (ESS) and other LSMS, MTF, DHS, and census data). This database of approximately 1,282 surveys from 139 countries allows the calculation of regional and global electricity access rates:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/9287795"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
