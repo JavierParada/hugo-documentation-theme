@@ -12,7 +12,7 @@ weight: 7
 
 According to the latest indicator on access to electricity for 2020, 51.1% of Ethiopia has access to electricity. This means 56.2 million people (115,000,000 * (100-51.1)/100) still lack access to electricity. SDG7 aims to ensure access to affordable, reliable, sustainable, and modern energy for all by 2030 by ensuring universal access to affordable, reliable and modern energy services, and substantially increasing the share of renewable energy in the global energy mix. This chapter provides a path towards universal access to electricity in Ethiopia by 2030. 
 
-With about 115 million people (2020), Ethiopia is the second most populous nation in Africa after Nigeria. Ethiopia's urban population is concentrated in the capital city, Addis Ababa. Outside of Addis Ababa, the vast majority of Ethiopian population still lives in rural settlements consisting of hamlets and villages (approximately 78% percent of the population lived in rural areas in 2020). The country covers 1,112,000 square kilometers (472,000 sq. miles) making it roughly as large as France and Spain combined and five times the size of the UK. However, the distribution of population in Ethiopia is very uneven because lowlands are characterized by scarcity of rainfall, high temperature, and poor vegetation and soil conditions. 
+With about 115 million people (2020), Ethiopia is the second most populous nation in Africa after Nigeria. Ethiopia's urban population is concentrated in the capital city, Addis Ababa. Outside of Addis Ababa, the vast majority of Ethiopian population still lives in rural settlements consisting of hamlets and villages (approximately 78% percent of the population lived in rural areas in 2020). The country covers 1,104,300 square kilometers (426,400 square miles) making it roughly as large as France and Spain combined and five times the size of the UK. However, the distribution of population in Ethiopia is very uneven because lowlands are characterized by scarcity of rainfall, high temperature, and poor vegetation and soil conditions. 
 
 <img src="/ETH/eth_pd_1km_UN_2020_Image.png" alt="demo" class="img-responsive" title="Population Density 2020 UN adjusted">
 
@@ -24,7 +24,9 @@ In Ethiopia, nighttime lights are heavily concentrated in Addis Ababa. Other tha
 
 <img src="/ETH/ETH NTL.png" alt="demo" class="img-responsive" title="Nighttime Lights">
 
-## How do we measure access to electricity 
+Source: NASA Earth at Night https://earthobservatory.nasa.gov/features/NightLights
+
+# How do we measure access to electricity 
 
 Access to reliable, affordable, and modern energy services is fundamental to sustainable development as codified in the SDG 7.1. Achieving this will require substantial new investment, deployment of innovative technologies, and a wide range of interventions targeted for underserved populations. The success of such interventions largely depends on data and analytics availability of existing access gaps, and potential options to overcome them. 
 
@@ -42,7 +44,7 @@ Substantial progress has been made toward developing and piloting a new methodol
 dimensions of service quality and goes beyond a simple yes/no measure of energy
 access to a more refined approach that recognizes different levels of energy access.
 
-## The Multi-Tier Framework (MTF)
+# The Multi-Tier Framework (MTF)
 
 The Multi-Tier Framework (MTF) initiative redefines the way energy access is measured, going beyond the traditional binary measure of "connected or not connected" for electricity access. In the MTF, electricity access is measured based on the combination of seven attributes of energy across six tiers of access with minimum requirements by tier of electricity access.
 
@@ -76,7 +78,7 @@ The MTF so far has been published for in 13 countries (7 countries published ear
 
 <img src="/ETH/diagnostic.png" alt="demo" class="img-responsive" title="Diagnostic">
 
-## Current energy mix
+# Current energy mix
 
 Ethiopia is actively exploiting its water resources by building dams, reservoirs, irrigation and diversion canals and hydropower stations.  Approximately 90% of the installed generation capacity is from hydropower, while the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
 
@@ -98,7 +100,7 @@ Ashegoda wind farm is the biggest wind farm in Ethiopia, consisting of 84 wind t
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5260.288982574567!2d39.57036671549295!3d13.425348708389933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x166ae1576db229db%3A0xfcd417518e6c2dac!2sAshegoda%20Wind%20Farm!5e1!3m2!1sen!2sus!4v1653506462618!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Solar power potential
+# Solar power potential
 
 The Global Solar Atlas provides quick and easy access to solar resource and photovoltaic power potential data globally. The North and Northeast regions of Ethiopia have the highest potential for solar. 
 
