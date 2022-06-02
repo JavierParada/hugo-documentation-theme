@@ -93,7 +93,7 @@ The MTF so far has been published for 13 countries (7 countries published early 
 
 ## 3. Current Energy Landscape
 
-Indicator 7.2.1, which measures "Renewable energy share in the total final energy consumption (%)", indicates that the value for Ethiopia in 2018 was 89.9%.  We must go deeper into describing Ethiopia's energy mix to understand why Ethiopia's reliance on renewable energy is relatively high. 
+Ethiopia is one of the few countries in the world that generates almost all of its electricity from renewable resources. Indicator 7.2.1, which measures "Renewable energy share in the total final energy consumption (%)", indicates that the value for Ethiopia in 2018 was 89.9%.  We must go deeper into describing Ethiopia's energy mix to understand why Ethiopia's reliance on renewable energy is relatively high. 
 
 Ethiopia's energy landscape has long been dominated by large hydropower capacity (around 90 per cent in the national energy mix) and a totally state owned energy system including its state-run utility, Ethiopian Electric Power (EEP). Ethiopia is actively exploiting its water resources by building dams, reservoirs, irrigation and diversion canals and hydropower stations.  Other than the 90% of the installed generation capacity from hydropower, the remaining 8% and 2% is from wind and thermal sources, respectively. The hydro dominated systems have been severely affected by drought, and the Government of Ethiopia is now diversifying the generation mix with other sources such as solar, wind, and geothermal that will result in a more climate-resilient power system. 
 
