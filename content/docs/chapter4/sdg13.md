@@ -10,7 +10,7 @@ weight: 3
 
 <div class="flourish-embed" data-src="story/1580590"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[Link](https://sdga2022.github.io/sdga2022/goals/goal13)
+[SDG Atlas 2022 Chapter 13](https://sdga2022.github.io/sdga2022/goals/goal13)
 
 <script src="https://climateclock.world/widget-v2.js" async></script>
 <climate-clock />

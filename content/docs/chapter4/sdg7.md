@@ -11,3 +11,5 @@ weight: 1
 ## Energy transitions towards renewable energy
 
 [Tableau dashboard](https://tab.worldbank.org/t/WBG/views/EnergyTransitions/Transitions?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
+
+[SDG Atlas 2022 Chapter 7](https://sdga2022.github.io/sdga2022/goals/goal07)
