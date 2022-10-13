@@ -8,6 +8,8 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 4
 ---
 
+[SDG Atlas 2022 Chapter 14](https://sdga2022.github.io/sdga2022/goals/goal14)
+
 <iframe src="//www.shipmap.org" style="width: 100%; height: 600px; border: 0" frameborder="0"></iframe><div style="width: 100%; font-size: 10px; margin-top: 4px">Created by <a target="_top" href="https://www.kiln.digital/">London-based data visualisation studio Kiln</a> and the <a target="_top" href="http://www.bartlett.ucl.ac.uk/energy">UCL Energy Institute</a></div>
 
 Link: https://www.shipmap.org 
