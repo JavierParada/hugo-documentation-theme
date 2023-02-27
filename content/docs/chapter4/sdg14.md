@@ -9,21 +9,37 @@ weight: 4
 ---
 
 [SDG Atlas 2022 Chapter 1](https://sdga2022.github.io/sdga2022/goals/goal01)
+
 [SDG Atlas 2022 Chapter 2](https://sdga2022.github.io/sdga2022/goals/goal02)
+
 [SDG Atlas 2022 Chapter 3](https://sdga2022.github.io/sdga2022/goals/goal03)
+
 [SDG Atlas 2022 Chapter 4](https://sdga2022.github.io/sdga2022/goals/goal04)
+
 [SDG Atlas 2022 Chapter 5](https://sdga2022.github.io/sdga2022/goals/goal05)
+
 [SDG Atlas 2022 Chapter 6](https://sdga2022.github.io/sdga2022/goals/goal06)
+
 [SDG Atlas 2022 Chapter 7](https://sdga2022.github.io/sdga2022/goals/goal07)
+
 [SDG Atlas 2022 Chapter 8](https://sdga2022.github.io/sdga2022/goals/goal08)
+
 [SDG Atlas 2022 Chapter 9](https://sdga2022.github.io/sdga2022/goals/goal09)
+
 [SDG Atlas 2022 Chapter 10](https://sdga2022.github.io/sdga2022/goals/goal10)
+
 [SDG Atlas 2022 Chapter 11](https://sdga2022.github.io/sdga2022/goals/goal11)
+
 [SDG Atlas 2022 Chapter 12](https://sdga2022.github.io/sdga2022/goals/goal12)
+
 [SDG Atlas 2022 Chapter 13](https://sdga2022.github.io/sdga2022/goals/goal13)
+
 [SDG Atlas 2022 Chapter 14](https://sdga2022.github.io/sdga2022/goals/goal14)
+
 [SDG Atlas 2022 Chapter 15](https://sdga2022.github.io/sdga2022/goals/goal15)
+
 [SDG Atlas 2022 Chapter 16](https://sdga2022.github.io/sdga2022/goals/goal16)
+
 [SDG Atlas 2022 Chapter 17](https://sdga2022.github.io/sdga2022/goals/goal17)
 
 <iframe src="//www.shipmap.org" style="width: 100%; height: 600px; border: 0" frameborder="0"></iframe><div style="width: 100%; font-size: 10px; margin-top: 4px">Created by <a target="_top" href="https://www.kiln.digital/">London-based data visualisation studio Kiln</a> and the <a target="_top" href="http://www.bartlett.ucl.ac.uk/energy">UCL Energy Institute</a></div>
